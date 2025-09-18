@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       d365d1bc-5e0f-4a61-891c-5bd4521e85ea
+:END:
+#+title: observer effect
+#+filetags: :psychology:
+
+* observer effect
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757045443772
+:ANKI_NOTE_HASH: 441d642d5d9258ab5d5e176ef1b85673
+:END:
+Individuals may change thir behavior due to the attention they are receiving from researchers in [[id:b61aa144-7892-40ca-ac07-aa5b2631349c][observational study]].

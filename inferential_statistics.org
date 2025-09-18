@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       2cf8db47-5de3-4ac6-8af5-2d61b34d0035
+:END:
+#+title: inferential statistics
+#+filetags: :psychology:
+
+* inferential statistics
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757658278869
+:ANKI_NOTE_HASH: 482bb0c7455a4dbe81b0f9f7dbceb370
+:END:
+Inferential statistics are used to interpret data and draw conclusions (Small sample to large population)
++ they tell psychologists whether or not they can generalize from the chosen sample to the whole population, if the sample actually represents the population.

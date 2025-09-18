@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       66a09ee2-4131-406a-abc0-ff6122763756
+:END:
+#+title: bimodal distribution
+#+filetags: :psychology:
+* bimodal distribution :ATTACH:
+There are two distinct peaks on a histogram
++ It suggests that the data is not evenly distributed and may represent two distinct groups or phenomena within the dataset.
+#+attr_html: :width 505px
+[[attachment:CopyQ.MgJliZ.png]]

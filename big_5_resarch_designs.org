@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       1020b901-63d1-4e85-ae4f-034df8f4b05b
+:END:
+#+title: scientific method & description
+#+filetags: :psychology:
+
+* big 5 research method
+:PROPERTIES:
+:ID:       55982870-0590-4aa5-bae4-011b2d82cacf
+:END:
+1. [[id:e703e90e-6ef1-463c-a7d0-bcb0c15fec55][experiment]]
+2. [[id:284ad7bb-9dd7-48a0-b603-5ac24b699aa4][case study]]
+3. [[id:b61aa144-7892-40ca-ac07-aa5b2631349c][naturalistic observation]]
+4. [[id:88207ed9-1e90-4539-8993-9b2ed035dcc5][correlation study]]
+5. [[id:e3c8fee1-b8e5-43f6-9d1f-d6e1156841bc][meta-analysis]]
+Note that you should write full sentence.
+*  Research way (not method)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757909657080
+:ANKI_NOTE_HASH: 8e13b02d28209d72b6f66e3c610d8421
+:END:
+1. [[id:7522fa52-e9e4-41e9-8862-bedb1b96cc42][survey]]
+2. interviews
+3. questionnaires

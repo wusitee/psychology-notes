@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       558cd8eb-7637-480b-b8f9-b5ada18e7ccd
+:END:
+#+title: protect participants from harm
+#+filetags: :psychology:
+
+* todo protect participants from harm
+Research

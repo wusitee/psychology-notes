@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       70c3b057-9a07-491d-a3b6-d7dd946a5ad7
+:END:
+#+title: deception
+#+filetags: :psychology:
+
+* deception
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757661975652
+:ANKI_NOTE_HASH: e1a451d223773b5aa0a6743b7c9876e2
+:END:
+misleading participants about the true purpose or nature of the study, the procedures involved, or the expected outcomes.
++ for some research it is not possible to tell participants the intention of the study without biasing the results (observer effect)

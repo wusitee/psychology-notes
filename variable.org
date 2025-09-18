@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       ade0bdeb-54e6-497e-ad7f-baa5a59f822d
+:END:
+#+title: variable
+#+filetags: :psychology:
+
+* variable

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       2c7fec31-3539-4527-a4e0-87da77cfee63
+:END:
+#+title: debriefing
+#+filetags: :psychology:
+
+* debriefing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758023806432
+:ANKI_NOTE_HASH: 4686bd02f0928dacea738f59000e46ae
+:END:
+a process used after an experiment or research study where participants are provided with information regarding the purpose, procedures, and findings of the study.

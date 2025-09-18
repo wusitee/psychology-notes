@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c4ffca0c-914f-4511-af65-bbd94251d64c
+:ANKI_DECK: study
+:END:
+#+title: convenience sample
+#+filetags: :psychology:statistic:
+* convenience sample
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756969840030
+:ANKI_NOTE_HASH: 974fce55898eb4c92b9792d095783185
+:END:
+Choosing individuals from the [[id:c1189d8a-d04a-41c8-8e50-dec6e2f34ded][population]] who are easy to reach results in it.
++ the participants are chose by the accessibility.
+It will lead to a [[id:55758859-cb86-4395-8bf7-2c332168e231][undercoverage]] which is a [[id:20fb0421-e5e7-4f38-a0f7-232d952f70a2][bias]].

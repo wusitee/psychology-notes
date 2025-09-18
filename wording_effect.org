@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       18281656-4913-479b-8ca9-d5327755062a
+:END:
+#+title: wording effect
+#+filetags: :psychology:
+
+* wording effect
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756971405858
+:ANKI_NOTE_HASH: 1d6c135b3b45fdbdf2a3642d80136dc1
+:END:
++ subtle changes in the phrasing of question can influence interpretations and responses this effect can lead to [[id:20fb0421-e5e7-4f38-a0f7-232d952f70a2][bias]]ed or inaccurate data due to variations in how individuals perceive and understand the questions.

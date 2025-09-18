@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       338e4e15-1ffa-4fa3-8ef1-42a8995cf3d8
+:END:
+#+title: random sampling
+#+filetags: :psychology:
+
+* random sampling
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756970289482
+:ANKI_NOTE_HASH: ea8f7a15e54f7c54311d5738491881dd
+:END:
+We choose the [[id:c5bbb36a-4788-4eb7-aedd-81ff60b12d83][sample]] from [[id:c1189d8a-d04a-41c8-8e50-dec6e2f34ded][population]] pure by chance.
++ the larger the sample size the more likely it is to represent the [[id:c1189d8a-d04a-41c8-8e50-dec6e2f34ded][population]].

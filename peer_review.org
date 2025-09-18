@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       7310cd48-4d88-4edb-b173-68da760b99d3
+:END:
+#+title: peer review
+#+filetags: :psychology:
+
+* peer review
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756968422531
+:ANKI_NOTE_HASH: 47c871e466e02fb3b106502cb67402ea
+:END:
+People who have similar interests review your work.

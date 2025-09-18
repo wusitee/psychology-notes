@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       e703e90e-6ef1-463c-a7d0-bcb0c15fec55
+:END:
+#+title: experiment
+#+filetags: :psychology:
+
+* experiment
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757290591454
+:ANKI_NOTE_HASH: 8a9ab9fe1b5873b4de139aded1dd8454
+:END:
+The only way to establish that there is a *cause-and-effect relationship* between two variables is to conduct a scientific experiment.
++ Changes in one variable lead to changes in another.
++ allows researcher to control the situation
++ permits researcher to identify cause and effect
++ can create artificial situations that don't not always represent real-life situation.

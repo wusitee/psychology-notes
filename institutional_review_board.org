@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       11f6326e-43d7-48c6-bbe2-15957b6217a6
+:ROAM_ALIASES: IRB
+:END:
+#+title: institutional review board
+#+filetags: :psychology:
+
+* institutional review board
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758122550151
+:ANKI_NOTE_HASH: 5908f8e23bbcaef031149c9c130dc401
+:END:
+A committee that reviews research involving human subjects to ensure it is ethical and protects participants' rights and welfare.

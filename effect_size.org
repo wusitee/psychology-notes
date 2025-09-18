@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       2fabdb72-45d9-4cb2-a4fb-41a46d30b03a
+:END:
+#+title: effect size
+#+filetags: :psychology:
+
+* effect size
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+The strength of the relationship between two variables. The larger the effect size the more

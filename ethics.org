@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       1646a7cc-377f-4265-b076-2d5688db31b7
+:END:
+#+title: ethics
+#+filetags: :psychology:
+
+* ethics
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757659824766
+:ANKI_NOTE_HASH: d96dc02ac4119e827b7c45e29c28cd4c
+:END:
+The correct rules and moral principles when carrying out research
++ Psychologists need to act responsibly and morally
++ Ethical principles are developed by the American psychological association (APA).
+* ethical guide line
+:PROPERTIES:
+:ID:       5fef392a-8e40-4122-b222-2a05f6f1fbc9
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758023822852
+:ANKI_NOTE_HASH: b1b8a2f7530c7246a2455a5d5efe0b96
+:END:
++ [[id:12bc4b3e-5102-4252-a92b-8ed198e44021][informed consent]] & [[id:2ced94c2-4671-4786-8b04-c5536bc33fdd][informed assent]]
++ [[id:cb272e24-a2e8-469d-b8ef-ec8b95cdc92c][confidentiality]]
++ [[id:8f478f2d-1527-4023-bf26-e2a51fe50bd7][Human subject protection]]
++ [[id:bb08a428-dda6-41ae-a436-587e9929b483][accountability]]
++ [[id:2c7fec31-3539-4527-a4e0-87da77cfee63][debriefing]]
++ [[id:b626f47f-32df-456a-9a86-09e6a184ff4c][right to withdraw "No coerion"]]

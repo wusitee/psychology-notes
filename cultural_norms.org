@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       874edc51-0164-4b1e-89bc-c11db5d17310
+:END:
+#+title: cultural norms
+#+filetags: :psychology:
+
+* cultural norms
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757985266919
+:ANKI_NOTE_HASH: 3f2e88dc37318924a4ac7ba109341e3c
+:END:
+the unwritten rules or shared expectations within a society that guide behavior, shaping beliefs, values, and practices by providing guidelines for what is considered acceptable or appropriate.

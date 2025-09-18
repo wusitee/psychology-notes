@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       a430395e-f31a-4c53-8a46-0b4a3a21f010
+:END:
+#+title: regression to the mean
+#+filetags: :psychology:
+
+* regression toward the mean
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758122623954
+:ANKI_NOTE_HASH: 0673f80e26555043e57748f7287006f2
+:END:
+A statistical phenomenon where an extreme measurement is likely to be followed by one closer to the average, due to a combination of chance and inherent variation.

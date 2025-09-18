@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       83f37be1-4dac-406b-b94a-f9d519fe97fb
+:END:
+#+title: correlation
+#+filetags: :math:psychology:statistics:
+
+* correlation
+the correlation \(r\) measures the *linear* direction and strength of the association.
+- which means it doesn't indicate any other non-linear information (relation, etc.).
+* properties
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_DECK: study
+:ANKI_FAILURE_REASON: cannot create note for unknown reason
+:END:
++ the value of correlation always between {{c1::-1 and 1}}
++ in the case of {{c1::\(r = 1\) or \(r = -1\)}}, there must be a perfect linear relationship.
++ the stronger the linear relationship, the closer the \({\left| r \right| }\) to {{c1::1}}.
+* Correlation doesn't imply causation
+This [[www.tylervigen.com/spurious/correlation][Web]] shows that it is the case.
+\begin{align*}
+r &= \frac{1}{n-1} \cdot \sum\left( \frac{x_{i}-\bar{x}}{S_{x}}\right) \left(\frac{y_{i}-\bar{y}}{S_{y}}\right) \\
+ &= \frac{Cov[X,Y]}{\sigma_{X}\cdot \sigma_{Y}}
+\end{align*}
+* Illusory Correlation :psychology:
+:PROPERTIES:
+:ID:       509ab235-8b80-41ea-8cf6-577787048853
+:END:
+A perceived but nonexistent correlation

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       e01125f7-ad34-4cbd-b9a3-9e88b0c1570b
+:END:
+#+title: scientific Attitude & Psychological Thinking
+#+filetags: :psychology:
+
+* Empirical Evidence
+Information acquired by [[id:b61aa144-7892-40ca-ac07-aa5b2631349c][observation]] & experimentation.

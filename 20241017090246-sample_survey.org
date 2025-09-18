@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7522fa52-e9e4-41e9-8862-bedb1b96cc42
+:END:
+#+title: sample survey
+#+filetags: :psychology:statistics:
+* survey
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: study
+:ANKI_NOTE_ID: 1756971006736
+:ANKI_NOTE_HASH: fc27912f03bad61848f7b61e0309a1e9
+:ID:       6d0ceef0-7e1d-4445-ae35-7857eee85efd
+:END:
+It is a study that collect data from a [[id:c5bbb36a-4788-4eb7-aedd-81ff60b12d83][sample]] to learn about
+[[id:437705ee-96b1-4306-914b-b005e0bf4520][population]] from which sample we selected.
+** strength
++ ability to get private information and tremendous amount of data
+** limitation
++ wording effects: choices can influence answer
+* likert scales
+Assess people's attitudes, opinions or perceptions by *different levels of agreement or disagreement on a scale*.

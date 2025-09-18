@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       3faa8287-f1f2-4472-ab47-8b9b54970728
+:END:
+#+title: hypothesis
+#+filetags: :psychology:
+
+* hypothesis
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756968531806
+:ANKI_NOTE_HASH: e8d8115e07f9d9f0faa57b89dccd7a9a
+:END:
++ A hypothesis makes a specific testable prediction about a specified set of circumstances
++ A Hypothesis is a *guess* that has yet to be test

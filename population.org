@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c1189d8a-d04a-41c8-8e50-dec6e2f34ded
+:END:
+#+title: population
+#+filetags: :psychology:
+
+* population
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1756969200561
+:ANKI_NOTE_HASH: 278a785f2c6394deba79557df6a6f631
+:END:
+** Text
+The {{c1::population}} is everyone who *can be* in a study.

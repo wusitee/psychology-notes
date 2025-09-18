@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       f2fb6d59-63b0-4edf-be2e-bb2c71f54512
+:END:
+#+title: animal testing
+#+filetags: :psychology:
+
+* animal testing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757662103577
+:ANKI_NOTE_HASH: d11fb4e498ae3fafd7b8f1f2e6c4de83
+:END:
+animals are acceptable substitute's for research that would be considered unethical in human prticipants (minimize infection, illness, and pain in animal [[id:e7620d50-ed4e-47b8-99ed-130540a98b2a][subject]]s)
++ animals live shorter lives, easier to control, engage in simple behavior, precesses similar to humans.

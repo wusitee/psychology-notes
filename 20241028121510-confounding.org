@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ea4a7d2a-289a-476e-8514-b802a9c1d6e4
+:END:
+#+title: confounding
+#+filetags: :psychology:statistics:
+* confounding
+:PROPERTIES:
+:ANKI_DECK: study
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757291279602
+:ANKI_NOTE_HASH: 3bcc4e13faeb2cf412d3bcd379c0fc41
+:END:
+It occurs when two [[id:aa32b7e9-27f3-4fd5-a1a1-74c7398408cc][explanatory variable]]s are associated in such a way
+that their effects on [[id:a3dd8207-f67a-421c-b4e2-c80d40d7eec0][response variable]] cann't be distinguished from each other.

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       a4aa3d12-bd45-42a6-a9b8-b2d7e0f342a8
+:END:
+#+title: hindsight bias
+#+filetags: :psychology:
+
+* hindsight bias
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756967958033
+:ANKI_NOTE_HASH: 6f66c0581f9c88c3fd29eb4cc4f45054
+:END:
+People may exaggerate the extent they predicated the outcome.
++ "I-knew-it-all-long Phenomenon"
++ After an event, they think they accurately predicted it before it happened

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       cb272e24-a2e8-469d-b8ef-ec8b95cdc92c
+:END:
+#+title: confidentiality
+#+filetags: :psychology:
+
+* confidentiality
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757661586814
+:ANKI_NOTE_HASH: 927dbed1f685f6dbccc5aea382188325
+:END:
+any data collected in the experiment should remain completely confidential.
++ should make every effort to ensure that the data they provide can not be traced back to the participant.
+* anonymity
+:PROPERTIES:
+:ID:       4cdb2ece-3f87-47ef-b265-fae4df845ba1
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757661713951
+:ANKI_NOTE_HASH: 65797af843785eea6b5ce420778ce737
+:END:
+the identity of the [[id:e7620d50-ed4e-47b8-99ed-130540a98b2a][subject]] is hide.

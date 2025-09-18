@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       ab889c3a-9cd2-482e-a5c0-840bf34760d1
+:END:
+#+title: self-report bias
+#+filetags: :psychology:
+
+* self-report [[id:20fb0421-e5e7-4f38-a0f7-232d952f70a2][bias]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758122474651
+:ANKI_NOTE_HASH: a1ccdfb003a2e37b6d3588ac1593f6df
+:END:
+the tendency of individuals to provide inaccurate or distorted information about themselves, their behaviors, or their experiences when asked to self-report.

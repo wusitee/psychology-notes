@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       88207ed9-1e90-4539-8993-9b2ed035dcc5
+:ANKI_DECK: study
+:END:
+#+title: correlation study
+#+filetags: :psychology:
+* correlational study
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757046235658
+:ANKI_NOTE_HASH: eec14e130548ac4c5f47dd198235c2f7
+:END:
+Research used to see if two variables are related ([[id:83f37be1-4dac-406b-b94a-f9d519fe97fb][correlation]]) and to make predictions based on the relationship
++ studies do not involve manipulation of variables (non experimental).

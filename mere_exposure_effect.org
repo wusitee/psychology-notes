@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       cab72baf-2eb7-47e5-8450-42a369d63601
+:END:
+#+title: mere-exposure effect
+#+filetags: :psychology:
+
+* mere-exposure effect
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757378460501
+:ANKI_NOTE_HASH: 0690ca8227c3983750b380050b993ce5
+:END:
+a psychological phenomenon where people tend to develop a preference for things simply because they are familiar with them.

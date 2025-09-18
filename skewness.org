@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       12466c38-4d6c-4e66-a3fb-2ce89fe1aef1
+:END:
+#+title: skewness
+#+filetags: :statistics:psychology:
+
+* skewness

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       e3c8fee1-b8e5-43f6-9d1f-d6e1156841bc
+:ROAM_ALIASES: meta-analysis
+:END:
+#+title: meta analysis
+#+filetags: :psychology:
+
+* meta analysis
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757294273130
+:ANKI_NOTE_HASH: d7e4ac821569e7cdf47eed146db934f9
+:END:
+provides a way of statistically combing the results of individual research studies to reach an overall conclusion
++ effect sizes are widely used in meta-analysis, which can be used to quantitatively compare the results of studies done in a different setting.

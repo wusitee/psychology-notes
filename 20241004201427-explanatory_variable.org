@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       aa32b7e9-27f3-4fd5-a1a1-74c7398408cc
+:ROAM_ALIASES: "independent variable"
+:ANKI_DECK: study
+:END:
+#+title: explanatory variable
+#+filetags: :psychology:statistics:
+* explanatory variable
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757290897653
+:ANKI_NOTE_HASH: 62be96d0fcb403b9b5bad4962fd2b463
+:END:
+A *explanatory variable* (independent variable) may help predict or explain changes in a [[id:a3dd8207-f67a-421c-b4e2-c80d40d7eec0][response variable]].
++ It could be also called as independent variable
++ It is the variable that researchers change to see the effect.

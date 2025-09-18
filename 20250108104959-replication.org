@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1c0e68a4-0c0b-4fa4-afca-767dbf69d914
+:ANKI_DECK: study
+:END:
+#+title: replication
+#+filetags: :psychology:statistics:
+
+* replication
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758122404553
+:ANKI_NOTE_HASH: 638b0e71fe78f05392cb03fd8041b4ba
+:END:
+The process of repeating or reproducing a research study to determine if its findings can be consistently observed.

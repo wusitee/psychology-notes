@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       6bfd1c73-d5b2-46b6-b713-ff33e8ce2aba
+:END:
+#+title: median
+#+filetags: :psychology:statistics:
+
+* median
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757463428401
+:ANKI_NOTE_HASH: bb3ffcd50e3ac30aab86c432d847f835
+:END:
+Medina is the middle number in a set
++ less sensitive to extremes ([[id:46228dc8-882c-40eb-85f2-99adadfa5ce3][outlier]]s).

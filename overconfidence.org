@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       0ff2dcc4-577d-4dd3-928d-ac3277bd92b5
+:END:
+#+title: overconfidence
+#+filetags: :psychology:
+
+* overconfidence
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756967739907
+:ANKI_NOTE_HASH: 8d527441326550fa98e6ff01b2f6957a
+:END:
+Because of subjective psychological factors (personal believes and feelings, prejudice and [[id:20fb0421-e5e7-4f38-a0f7-232d952f70a2][bias]]), people are confidence about something.

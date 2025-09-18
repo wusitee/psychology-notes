@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       b626f47f-32df-456a-9a86-09e6a184ff4c
+:END:
+#+title: right to withdraw "No coerion"
+#+filetags: :psychology:
+
+* right to withdraw "No coerion"
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758153610335
+:ANKI_NOTE_HASH: 8a59b20855033197cf4d4656646dddb2
+:END:
+Participant is capable of discontinuing participation at any time.

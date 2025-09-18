@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       2ced94c2-4671-4786-8b04-c5536bc33fdd
+:END:
+#+title: informed assent
+#+filetags: :psychology:
+
+* informed assent
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757661317937
+:ANKI_NOTE_HASH: 266167be9d1ab6c463f8cb86ef97ef76
+:END:
+Similar to informed consent but specifically applies to research involving children or individuals who may have limited decision-making capacity, such as those with cognitive impairments or developmental disabilities.

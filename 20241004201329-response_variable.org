@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a3dd8207-f67a-421c-b4e2-c80d40d7eec0
+:ROAM_ALIASES: "dependent variable"
+:END:
+#+title: response variable
+#+filetags: :psychology:statistics:
+* response variable
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: study
+:ANKI_NOTE_ID: 1745379363135
+:ANKI_NOTE_HASH: c9e9ee4cbcf84883a9c4320634414ea0
+:END:
+A *response variable* (dependent variable) measures an outcome of a study.

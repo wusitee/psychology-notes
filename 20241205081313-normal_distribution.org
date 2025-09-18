@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       07c8cf18-c7ce-4d34-881a-dce9a7d1b9ee
+:ROAM_ALIASES: normal
+:END:
+#+title: normal distribution
+#+filetags: :psychology:statistics:
+* normal distribution
+if \(X \sim N(\mu_x, \sigma_x^2)\), then \(X\) follow a random distribution with mean \(\mu\) and [[id:3a4719b3-882e-45ca-9788-24ec8d983f25][standard deviation]] \(\sigma_x\).
+- The density function of \(X\) would be:
+  \begin{align*}
+    f(x) = \frac{1}{\sqrt{2\pi\sigma^{2}}}^{-\frac{1}{2\sigma^{2}}(x-\mu)^{2}}
+  \end{align*}
+  - \(X\) is an continuous function
+* 68 95 99.7 rule :ATTACH:
+:PROPERTIES:
+:ID:       a8380773-ff62-48e0-8672-f98c412cc4d4
+:END:
+In statistics, the empirical rule states that in a normal distribution, 99.7% of observed data will fall within three standard deviations of the mean. Specifically, 68% of the observed data will occur within one standard deviation, 95% within two standard deviations, and 99.7% within three standard deviations.
+#+attr_html: :width 535px
+[[attachment:CopyQ.TAPIBl.png]]

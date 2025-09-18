@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       284ad7bb-9dd7-48a0-b603-5ac24b699aa4
+:END:
+#+title: case study
+#+filetags: :psychology:
+
+* case study
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757045030625
+:ANKI_NOTE_HASH: e42fed1a5316cae6a530602c219ef2b5
+:END:
+An observation technique in which one individual or just *a few individuals* are carefully studied *in-depth*.
++ sometimes case studies involve complex & rare phenomena.

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b61aa144-7892-40ca-ac07-aa5b2631349c
+:ANKI_DECK: study
+:ROAM_ALIASES: "naturalistic observation"
+:END:
+#+title: observational study
+#+filetags: :psychology:statistics:
+* observation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757045248599
+:ANKI_NOTE_HASH: 05907593e90e7111b8934fe0bf818807
+:END:
+It observes individuals and measures variables of interest.
+*but doesn't trying to influence the response*.
++ naturally occurring situation without manipulation or control of the situation.

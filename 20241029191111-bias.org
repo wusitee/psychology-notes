@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       20fb0421-e5e7-4f38-a0f7-232d952f70a2
+:END:
+#+title: bias
+#+filetags: :psychology:statistics:
+
+* bias
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
++ The design of statistical study shows *it* when it is very
+  likely to underestimate or overestimate the value you
+  want to know.
++ bias isn't just bad luck in one sample
+
+* describe how leads to bias
+1. describe how the members in the [[id:c5bbb36a-4788-4eb7-aedd-81ff60b12d83][sample]] might responded
+   differently from the rest of the population.
+2. explain how this leads to an underestimate or
+   overestimate.
+* type of bias
+1. [[id:07382918-7123-4487-830a-db03a4d7c84b][nonresponse]]
+2. [[id:55758859-cb86-4395-8bf7-2c332168e231][undercoverage]]
+3. [[id:9fd37232-0ce8-4242-b4ff-9bff3e536b16][response]]
+4. [[id:bc5047e6-eae7-4f62-b161-6071c761b2e3][confirmation bias]]
+5. [[id:a4aa3d12-bd45-42a6-a9b8-b2d7e0f342a8][hindsight bias]]
+6. [[id:ab889c3a-9cd2-482e-a5c0-840bf34760d1][self-report bias]]

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       7755d9a5-2260-4682-90d2-eac314a4b4c2
+:END:
+#+title: projective test
+#+filetags: :psychology:
+
+* projective test
+a psychological test in which words, images, or situations are presented to a person and the responses analysed for unconscious expression of elements of personality that they reveal.

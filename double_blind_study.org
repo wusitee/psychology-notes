@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       a821c952-7937-4a8b-8595-d7207bb154f3
+:END:
+#+title: double-blind study
+#+filetags: :psychology:
+
+* double-blind study
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757377035627
+:ANKI_NOTE_HASH: b1a12030efc47d1373f4efc135c8d785
+:END:
+A research design in which neither the experimenter nor the participants know who is in the experimental group and who is in the control group.
++ eliminate [[id:9dfa1d43-cb40-47cc-84a7-cd77a008c237][researcher bias]] (experimenter bias).

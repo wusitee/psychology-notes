@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       4bfec11f-c3f3-4812-8637-9b1fd035bb93
+:END:
+#+title: social desirability
+#+filetags: :psychology:
+
+* social desirability
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756971491933
+:ANKI_NOTE_HASH: 5287542fbee1b6c76ab02c187993f787
+:END:
+tendency for research participants to attempt to act in ways that make them seen desirable to other poeple.

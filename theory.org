@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       8b8f2642-cf54-4d93-8566-21f475c94ba1
+:END:
+#+title: theory
+#+filetags: :psychology:
+
+* theory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756968492106
+:ANKI_NOTE_HASH: c876193608bcbe303af28548a1b59715
+:END:
++ A theory predicts behaviors and events
++ A theory has been extensively tested and is generally accepted
++ Highly resarched, rigorously tested framework that organize multiple studies under one umbrella of ideas

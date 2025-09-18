@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       3a4719b3-882e-45ca-9788-24ec8d983f25
+:ANKI_DECK: study
+:END:
+#+title: standard deviation
+#+filetags: :psychology:statistics:
+* standard deviation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757464210901
+:ANKI_NOTE_HASH: 52d25c71715fdcbdc8b9c64655d29875
+:END:
+A measure of how dispersed the data is in relation to the mean.
+- \(\sigma\) represent the population standard deviation.
+- \(S_{x}\) represent the sample standard deviation.
+  \(S_x = \sqrt{\frac{1}{n-1} \sum (x_i - \bar{x})^{2}} \)

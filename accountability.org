@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       bb08a428-dda6-41ae-a436-587e9929b483
+:END:
+#+title: accountability
+#+filetags: :psychology:
+
+* accountability
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757982432872
+:ANKI_NOTE_HASH: f4a7513792641f6920dce12823f4682f
+:END:
+Taking responsibility for one's actions and findings

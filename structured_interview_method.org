@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       18524b12-c637-4100-aa93-5beac89eec77
+:END:
+#+title: structured interview method
+#+filetags: :psychology:
+
+* structured interview method
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756971534558
+:ANKI_NOTE_HASH: d2fa88afae8108c4334d5e3ae1cd28bf
+:END:
+Predetermined questions are asked to all participants in the same order.
++ This standardized approach allows for consistent data collection and facilitates comparisons across participants.

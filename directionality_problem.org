@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       80bf853a-4d8f-4dd5-b936-124aea161c4d
+:END:
+#+title: directionality problem
+#+filetags: :psychology:
+
+* directionality problem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758122394852
+:ANKI_NOTE_HASH: 82692ac0e7c3b9541c0ba3088e0426c2
+:END:
+It occurs in correlational studies when a relationship is found between two variables, but it's impossible to determine which variable is the cause and which is the effect.

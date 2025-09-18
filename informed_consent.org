@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       12bc4b3e-5102-4252-a92b-8ed198e44021
+:END:
+#+title: informed consent
+#+filetags: :psychology:
+
+* informed consent
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757660141041
+:ANKI_NOTE_HASH: b6417f590ab92593e6bee84d0bf19948
+:END:
+An informed consent form provides a written description of what participants can expect during the during the [[id:e703e90e-6ef1-463c-a7d0-bcb0c15fec55][experiment]], including potential risks and implications of the research.
++ Each participant must sign an informed consent form before they can participant in the experiment.

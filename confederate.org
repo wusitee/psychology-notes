@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       91563442-439d-4376-8a3b-cfad02baf323
+:END:
+#+title: confederate
+#+filetags: :psychology:
+
+* confederate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1756969687878
+:ANKI_NOTE_HASH: df4af443bf3902969453e0c983d92f8f
+:END:
+Individuals who seem to be participants but in reality are *part of the research team, trick real participants into thinking they are fellow participants.

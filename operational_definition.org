@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c77165d4-2691-42a7-99be-8e8e4ca14ffd
+:END:
+#+title: operational definition
+#+filetags: :psychology:
+
+* operational definition
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757291435549
+:ANKI_NOTE_HASH: 080a39fb2c26b18f1661af57f56b2f4e
+:END:
+The statement of procedures the researcher is going to use in order to measure a specific variable
++ A definition in terms of precisely how it is to be measured
++ Quantify the variables  -> research can be replicated.

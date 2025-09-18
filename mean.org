@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       bd3ce073-e31c-40f7-8222-80b4ac5b72a9
+:END:
+#+title: mean
+#+filetags: :statistics:psychology:
+
+* mean
+For a list of number \(a_{i}\), the mean of the list of number is defined as \(\bar{a} = \sum \frac{a_{i}}{n}\)

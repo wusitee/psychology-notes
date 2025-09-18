@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       0712d94f-345c-4d97-9300-302962d82070
+:END:
+#+title: likert scale
+#+filetags: :psychology:
+
+* likert scale
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757377188051
+:ANKI_NOTE_HASH: 848b21c4867841428b269175ae819c28
+:END:
+a psychometric [[id:7522fa52-e9e4-41e9-8862-bedb1b96cc42][survey]] scale that measures a respondent's agreement, disagreement, or attitude towards a statement or construct in a [[id:58ec19d9-7819-4ae9-9bf0-745e274aa720][quantitative]] way.

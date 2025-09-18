@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       8f478f2d-1527-4023-bf26-e2a51fe50bd7
+:END:
+#+title: Human subject protection
+#+filetags: :psychology:
+
+* Human subject protection
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757982408125
+:ANKI_NOTE_HASH: 68f80a6d8802a4e69965e5a741c23733
+:END:
+Implementing measures to safeguard the rights and well-being of individuals involved in research

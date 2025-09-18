@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ANKI_DECK: study 
+:ID:       77ef3925-fb24-4cdc-b4ad-b230d3e980fb
+:END:
+#+title: random assignment
+#+filetags: :psychology:
+
+* random assignment
+Process that ensures all members have equal chance to being placed in two groups in an [[id:e703e90e-6ef1-463c-a7d0-bcb0c15fec55][experiment]].
++ Placed into groups by chance/ random
++ minimizes the existence of preexisting differences or [[id:ea4a7d2a-289a-476e-8514-b802a9c1d6e4][confounding]] variables between the two groups.

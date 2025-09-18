@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       8f2ac009-d9f6-4a2d-9c38-bfefdf540d3f
+:END:
+#+title: single-blind study
+#+filetags: :psychology:
+
+* single-blind study
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1757293373474
+:ANKI_NOTE_HASH: 760a00d10119763d2cd55cb26f13d3d6
+:END:
+A research design in which the participants don't know which treatment group - experimental or control they are in.
++ prevent the [[id:1fe29347-ea56-4707-ae21-272d7da1ec23][placebo effect]].

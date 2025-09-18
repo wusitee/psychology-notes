@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       e86cdfc7-26f4-4d99-8526-5d13c3c8b1b5
+:END:
+#+title: falsifiability
+#+filetags: :psychology:
+
+* falsifiability
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756968761356
+:ANKI_NOTE_HASH: 9c05b433b0ee5097d03ab0902a8e4a86
+:END:
+If a proposal can be establish it as false, it has falsifiability.
++ An important feature of science.
++ Both [[id:8b8f2642-cf54-4d93-8566-21f475c94ba1][theory]] and [[id:3faa8287-f1f2-4472-ab47-8b9b54970728][hypothesis]] have this feature.

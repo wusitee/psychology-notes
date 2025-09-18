@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       bc5047e6-eae7-4f62-b161-6071c761b2e3
+:END:
+#+title: confirmation bias
+#+filetags: :psychology:
+
+* confirmation bias
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1756967653568
+:ANKI_NOTE_HASH: 0c6b459a366960565eab1e2d10c9b523
+:END:
+People tend to look for, interpret, or remember information in a way that confirms what they already believe.

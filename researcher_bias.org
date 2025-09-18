@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       9dfa1d43-cb40-47cc-84a7-cd77a008c237
+:END:
+#+title: researcher bias
+#+filetags: :psychology:
+
+* researcher bias
+also called experimenter bias.
