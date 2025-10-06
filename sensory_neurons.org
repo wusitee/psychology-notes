@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       a55fc514-3359-44b4-92fa-66886606768b
+:END:
+#+title: sensory neurons
+#+filetags: :psychology:
+
+* sensory neurons
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758602763907
+:ANKI_NOTE_HASH: 88a08f071fc29d1b76dbdae0230e76f1
+:END:
+Carry information from the nerves to the central nervous system
++ It is these sensory neurons that allow us to take in sensory information and send it to the brain and spinal cord.

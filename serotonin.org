@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       7e69774a-c345-411a-b027-3b080611359c
+:END:
+#+title: serotonin
+#+filetags: :psychology:
+
+* serotonin
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758677246311
+:ANKI_NOTE_HASH: 695ddc90673b3e724ef82383635b1040
+:END:
+connected to feelings of well-being and happiness
++ Drug for depression: SSRIs (Selective serotonin [[id:cc7c1f3a-7790-4bdd-b9fa-a162be7e9901][reuptake]] inhibitors) block the reuptake of serotonin.
++ Surplus too much serotonin is associated with hallucinations
++ tool little serotonin is associated with *depression*, some anxiety disorders, suicide and obsessive compulsive disorder.

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       77bfb36d-7cde-49d2-95fe-2ac80affab30
+:END:
+#+title: nature & nurture
+#+filetags: :psychology:
+
+* nature
+:PROPERTIES:
+:ID:       cde6a957-ba8f-4c8f-9d05-102b7ea7d90d
+:END:
++ traits inherited from parents
++ how our brain is structured
++ our nature temperament
++ out chances of having certain mental health conditions
++ basic instincts we're

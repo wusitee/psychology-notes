@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       9bcc9427-53d4-44ba-936d-126f8689eb8b
+:END:
+#+title: lateralization
+#+filetags: :psychology:
+
+* lateralization
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759130226499
+:ANKI_NOTE_HASH: ade014e5f95cfeed4751be7c1edfb709
+:END:
+There is some evidence that each brain [[id:c0548502-f6ec-4ad5-8974-ee1484fb1355][hemisphere]] has its own distinct functions:
+* left hemisphere
+:PROPERTIES:
+:ID:       236c6228-e399-4591-908c-b774de761cc3
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759130226508
+:ANKI_NOTE_HASH: bbc7d6858c89645c944f30ea25c2b68a
+:END:
+specializes in language, speech, handwriting, calculation, sense of time and rhythm, and basically any kind of though requiring analysis.
+* right hemisphere
+:PROPERTIES:
+:ID:       878db809-f36d-4972-b047-0d8bc6a75efd
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759130273849
+:ANKI_NOTE_HASH: 09a99637817b5c410d2448afd895b493
+:END:
+Appears to specialize in more widespread processing involving perception, visualization, spatial perception, recognition of patters, faces, emotions, melodies, and expression of emotion.

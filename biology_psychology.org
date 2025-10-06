@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       6f8746f1-69fa-4d81-a67f-2b78155ae33f
+:END:
+#+title: biology & psychology
+#+filetags: :psychology:
+
+* biology & psychology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758523093253
+:ANKI_NOTE_HASH: 2ac6498a2b3c1280687936cff39e7e83
+:END:
+All of the behaviors and mental processes studied in psychology result from biological processes.

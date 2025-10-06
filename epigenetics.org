@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       ee7c7058-b27f-41ea-a119-845d2edc1926
+:END:
+#+title: epigenetics
+#+filetags: :psychology:
+
+* epigenetics
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758525052640
+:ANKI_NOTE_HASH: 74f3c665a262640443ff715ad3ee8b61
+:END:
+Study of heritable changes in gene expression caused by non-genetic causes
++ Epigenetics is how your environment and experiences can turn genes ON or OFF. Without changing the DNA code itself.

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       7fb857a2-e9cd-4ed4-88e1-96128a93c549
+:END:
+#+title: reflex arc
+#+filetags: :psychology:
+
+* reflex action
+:PROPERTIES:
+:ID:       f1c35bba-627e-4074-bfd5-934a9fc091ea
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758603053009
+:ANKI_NOTE_HASH: 238643bfed5b600e0ea055c9b13dfba7
+:END:
+A sudden and involuntary response to stimuli
++ Classic example: Pain reflex
++ Receptors -> [[id:a55fc514-3359-44b4-92fa-66886606768b][sensory neurons]] -> [[id:85bd0cd7-3122-4a02-aa7c-ea80f76d264d][interneurons]] (In spinal cord) -> [[id:12b77036-85df-4286-977d-6bedc08fd388][motor neurons]]
++ *brain isn't needed*

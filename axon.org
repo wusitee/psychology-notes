@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       e523e051-7977-408e-badc-b6a240f1129d
+:END:
+#+title: axon
+#+filetags: :psychology:
+
+* axon
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758603818292
+:ANKI_NOTE_HASH: 5f3a22e6e9584c952a5588675fa2b2ca
+:END:
+Fiber that extends from the cell body to the terminal endings, its job is to carry messages out to other cells.
++ this is a one way street
+* axon terminals
+:PROPERTIES:
+:ID:       cd81f419-a774-4e9f-85e1-60146d1b4ea2
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758604456952
+:ANKI_NOTE_HASH: fd6cd4eeaf1f5cb4fcdd9664659ee91e
+:END:
+Tips at the end of the axon, send signal to other neurons
++ can also be called terminal buttons/ synpatic knobs

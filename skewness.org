@@ -5,4 +5,5 @@
 #+title: skewness
 #+filetags: :statistics:psychology:
 
-* skewness
+* skewness :ATTACH:
+[[attachment:CopyQ.BPrSvf.png]]

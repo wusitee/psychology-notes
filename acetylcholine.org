@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       af649b64-9c93-407b-a476-2bd1e12a4c17
+:ROAM_ALIASES: ACh
+:END:
+#+title: acetylcholine
+#+filetags: :psychology:
+
+* acetylcholine
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758675703886
+:ANKI_NOTE_HASH: 1077d736a92346fbc791b8c2639f0599
+:END:
++ first [[id:4a02c2ff-7325-42cb-9a41-7120e7aa8a7c][neurotransmitter]] discovered
++ involved in thought/learning/memory/muscle action and movement.
+Too little in the hippocampus has been associated with dementia & *Alzheimer's disease*.
+Lack of *muscle movement* and control (paralysis)
+* myasthenia gravis
+:PROPERTIES:
+:ID:       2219ff9f-b33d-4c4d-a8d9-3f714997b51f
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758676061158
+:ANKI_NOTE_HASH: e601351f17090e2bdf1938a8b0ab672a
+:END:
+Chronic automimmune disorder that affects the neuronmuscular junction, where nerve impulses are transmitted to muscles
++ It occurs when the immune system produces antibodies that block or destroy the receptors for [[id:af649b64-9c93-407b-a476-2bd1e12a4c17][acetylcholine]].

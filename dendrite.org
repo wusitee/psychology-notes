@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       7032b875-3f99-4c02-ab0a-b2bb5f3a9719
+:END:
+#+title: dendrite
+#+filetags: :psychology:
+
+* dendrite
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758603694876
+:ANKI_NOTE_HASH: 4ecd6351eec23243f48be528e5a7ccc5
+:END:
+part of neuron, branch-like extensions that receives electrical messages from other cells

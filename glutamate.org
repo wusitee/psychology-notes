@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       3f540d79-6f61-451b-bad1-62996c6d37f7
+:END:
+#+title: glutamate
+#+filetags: :psychology:
+
+* glutamate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758677828006
+:ANKI_NOTE_HASH: 142890c2b41d1de4aeed10b5f4e635b2
+:END:
++ Major [[id:89baa415-8042-4dc0-b9aa-7f4370808632][excitatory neurotransmitter]]
++ involved with most normal operations of the brain including thinking, long-term memory, and learning
++ Overstimulate the brain, producing migraines or migraines and epileptic seizures
++ deficit tool little is associated with insomnia, concentration problems.

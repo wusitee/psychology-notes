@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c89c9457-e8a7-45a0-8321-671f0d50cf43
+:END:
+#+title: twin studies & adoption studies & family studies
+#+filetags: :psychology:
+
+* twin studies
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758525971754
+:ANKI_NOTE_HASH: 7301b8b9da301e741423f093a65be1bd
+:END:
+Examines similarities and differences between identical and fraternal twins to assess the relative influence of genetics and environment on traits and behaviors

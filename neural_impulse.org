@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       7e97ccb9-3a1e-4d5f-8d21-92d25d096922
+:END:
+#+title: neural impulse
+#+filetags: :psychology:
+
+* neural impulse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758605620646
+:ANKI_NOTE_HASH: c8e9c104e653f166c8465d46fa713c32
+:END:
+when stimulated by senses or by neighboring neurons -> neurons will transmit messages by firing an impulse -> an electrical charge that travels down its axon
++ Brain activities are measured in milliseconds.
++ -55mV is the minimum amount of stimulation that soma uses to decide whether to tell the axon to start a neural impulse.
+* excitatory input
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758605740336
+:ANKI_NOTE_HASH: 0176404a10a242700cb9dc08f5850db5
+:ID:       2fbd62d6-edfa-4b51-a3cc-c420ac0d83f9
+:END:
+Information entering a neuron that signals it to respond and fire
+* inhibitory input
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758605740341
+:ANKI_NOTE_HASH: 1c73558854c4f9145f132fa838b04241
+:ID:       03dee522-f49e-41c0-86fd-c74bb8b88e25
+:END:
+information entering a neuron that signals it not to respond and fire

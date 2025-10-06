@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       9283a826-3a5f-475d-ab7a-7c41186e3e37
+:END:
+#+title: nervous system
+#+filetags: :psychology:
+
+* nervous system
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758526293779
+:ANKI_NOTE_HASH: 25584e078d8f64924ee0a3c7f17eb84c
+:END:
+Body's communication network that consists of all nerve cells
++ [[id:8a893e72-d96e-4839-9236-4cb0978386b9][central nervous system]]
++ peripheral outer boundary
+* central nervous system
+:PROPERTIES:
+:ID:       8a893e72-d96e-4839-9236-4cb0978386b9
+:ROAM_ALIASES: CNS
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758526281209
+:ANKI_NOTE_HASH: 674941d715d7797cfb89a719320453ac
+:END:
+Includes the nerves outside the brain and spinal cord that connect the CNS to the rest of the body
+* peripheral outer
+:PROPERTIES:
+:ID:       6baedfc9-feef-40b8-908e-2a39afe42a2e
+:END:
+* somatic nervous system
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758526404874
+:ANKI_NOTE_HASH: e6e5b40191ebd957f2ea565df466d9c2
+:ID:       66b51dfe-49b7-42e3-b905-75ac7bf2dbab
+:END:
+Includes the nerves that transmit signals from your brain to the skeletal muscles to allow voluntary movement
+* autonomic nervous system
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758527033754
+:ANKI_NOTE_HASH: 9121c53f8df794d20c415bfc485e0730
+:ID:       5fad8369-4d0f-4662-b983-e464e9871b25
+:END:
+Regulates involuntary and unconscious actions. It controls the glands and the muscles of the internal organs (Breathing blood pumping through veins, digestion, heartbeat)
++ sympathetic nervous system
+* sympathetic nervous system
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758527030579
+:ANKI_NOTE_HASH: 03ca19bae7ccfeb0428a3ce1d535c0f8
+:ID:       6bca65fb-bb17-4804-9b7b-ef67a393c802
+:END:
+Emergency response system, if something alarms, enrages, or challenges you "Fight, Flight or Freeze"
++ Accelerate your heartbeat, raise your blood pressure, slow your digestion, raise your blood sugar, and cool you with perspiration, makiing you alert and ready for action.
+* parasympathetic nervous system
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758527017008
+:ANKI_NOTE_HASH: 417304efd8ae6b1640ccb087c15a8ea0
+:ID:       730e502d-ef28-42e9-92df-7d97ec0e7b48
+:END:
+Rest & Digest
+Calm

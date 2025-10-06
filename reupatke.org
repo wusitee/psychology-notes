@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       cc7c1f3a-7790-4bdd-b9fa-a162be7e9901
+:END:
+#+title: reuptake
+#+filetags: :psychology:
+
+* reuptake
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758675116248
+:ANKI_NOTE_HASH: 53239a2515703e828f253b7d662ab99f
+:END:
+After the neurotransmitters stimulate the receptors on the receiving neuron, the neurotransmitters are taken back up into the sending neuron to be used again.
++ In other cases (without reputake) An enzyme destroys the neurotransmitter, breaking it down to be used elsewhere in the brain.

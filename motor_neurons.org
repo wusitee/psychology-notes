@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       12b77036-85df-4286-977d-6bedc08fd388
+:END:
+#+title: motor neuron
+#+filetags: :psychology:
+
+* motor neuron
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758602826281
+:ANKI_NOTE_HASH: 767566a6ca6a4857c233011a55ef9c16
+:END:
+Carry information from the brain and spinal cord to muscle fibers throughout the body
++ These motor neurons allow us to take physical action in response to stimuli in the environment

@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       6bec4601-5bb1-48a4-a96f-a89b87e933e6
+:END:
+#+title: refractory period
+#+filetags: :psychology:
+
+* refractory period
+:PROPERTIES:
+:ID:       97b799c4-1686-4e41-a5f1-0da8005881aa
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758606771381
+:ANKI_NOTE_HASH: d02599543e9f2a8adc91949d4e14dc8c
+:END:
+A cell in incapable of repeating an action potential
+* absolute refractory period
+:PROPERTIES:
+:ID:       7864e230-86ab-4e4e-ab0a-6246c47339de
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758606771388
+:ANKI_NOTE_HASH: 6a0f348ee7e48b10b18fcd8d5a0084d2
+:END:
+Period immediately after an action potential when another action potential cannot occur
+* relative refractory period
+:PROPERTIES:
+:ID:       46871858-d378-44ec-8367-89fa2e529305
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758606771392
+:ANKI_NOTE_HASH: e36c717c7d62a66488fb846c0e660919
+:END:
+Period following absolute refractory period when neurons will only respond to a stronger than normal impulse

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       fc5ffeb1-ad1e-4031-9f74-d9e7448945cd
+:END:
+#+title: neuron
+#+filetags: :psychology:
+
+* neuron
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758602766547
+:ANKI_NOTE_HASH: 209dc0bd1dbdbb405099264615e978fb
+:END:
+A nerve cell; the basic building block of the nervous system
++ Basic structural and functional unit of the nervous system
++ Specialized cell in the nervous system that receives and sends messages with electrochemical signals

@@ -5,5 +5,10 @@
 #+title: protect participants from harm
 #+filetags: :psychology:
 
-* todo protect participants from harm
-Research
+* protect participants from harm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758161275290
+:ANKI_NOTE_HASH: 136e8bc7131baa5c996b3f92fb7add55
+:END:
+obtaining informed consent, minimizing risks to a level no greater than everyday life, maintaining confidentiality and anonymity, providing resources for support, and ensuring a right to withdraw at any time

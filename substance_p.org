@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       6eceb5f6-3cde-4421-94ac-7b3b24c0045a
+:END:
+#+title: substance P
+#+filetags: :psychology:
+
+* substance P
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758678285669
+:ANKI_NOTE_HASH: 108d6ade624d23c96b13a8cb73ccdfeb
+:END:
+it involves in transmitting pain signals and modulating pain perception.
++ surplus too much substance P leads to hypersensitivity to pain and exacerbate inflammation
++ a deficit of substance P leads to decreased pain sensitivity, potentially resulting in reduced ability to perceive or respond to painful stimuli

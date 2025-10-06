@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c0548502-f6ec-4ad5-8974-ee1484fb1355
+:END:
+#+title: hemisphere
+#+filetags: :psychology:
+
+* hemisphere
+The brain has two hemispheres, the left controls the right side of the body, the right hemisphere controls the left side of the body
++ the two sides of the brian are always working together

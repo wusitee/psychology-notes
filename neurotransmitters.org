@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       4a02c2ff-7325-42cb-9a41-7120e7aa8a7c
+:END:
+#+title: neurotransmitter
+#+filetags: :psychology:
+
+* neurotransmitter
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758678758655
+:ANKI_NOTE_HASH: 4dc60e9aaf3eaf1bce58f98bed5dae9c
+:END:
+Chemicals in the brain that carry messages from one neuron to another it
++ They act like a key, and the receptor sites act like a lock It takes the right key to open specific locks
+* excitatory neurotransmitter
+:PROPERTIES:
+:ID:       89baa415-8042-4dc0-b9aa-7f4370808632
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758675597246
+:ANKI_NOTE_HASH: 37823e741620404d82b137887b801ef7
+:END:
+They excite connecting neurons and cause them to fire, more action potentials are triggered
+* inhibitory neurotransmitter
+:PROPERTIES:
+:ID:       a7dd0206-f03a-48b0-b4af-66a9664a2505
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758675597259
+:ANKI_NOTE_HASH: fe19956c0315cdc7b2380ec3a12477bf
+:END:
+inhibit next neurons from firing
++ inhibitory and excitatory balance each other out in the brain and boyd.
+* common neurotransmitters
+:PROPERTIES:
+:ID:       1f35f210-df8e-4cc9-a6a4-b4da958cc0cc
+:END:
+[[id:af649b64-9c93-407b-a476-2bd1e12a4c17][acetylcholine]]
+[[id:7e69774a-c345-411a-b027-3b080611359c][serotonin]]
+[[id:51bf1a23-51fe-42ac-aa72-b834eade4d53][dopamine]]
+norepinephine
+endorphins
+[[id:4201f0e9-9ba0-4b58-a299-e133788e44e1][GABA]]
+[[id:3f540d79-6f61-451b-bad1-62996c6d37f7][glutamate]]
+[[id:6eceb5f6-3cde-4421-94ac-7b3b24c0045a][substance P]]

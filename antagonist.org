@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       bdd45d82-621d-4097-aba9-fcb5af5105b9
+:END:
+#+title: antagonist
+#+filetags: :psychology:
+
+* antagonist
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759128196248
+:ANKI_NOTE_HASH: 497cf21f16b2ab79c1c50ac76a558b05
+:END:
+a substance which interferes with or inhibits the physiological action of another.

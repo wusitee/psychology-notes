@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       67812b84-bb79-420a-b397-91a05d29e73b
+:END:
+#+title: soma
+#+filetags: :psychology:
+
+* soma
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758603728124
+:ANKI_NOTE_HASH: ac69f886306829144d3126d2944c8171
+:END:
+The cell body of the neuron responsible to maintain the cell and keep the neuron functional (nucleus included)

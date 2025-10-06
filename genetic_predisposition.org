@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       adc9d2ba-ab8e-4877-ad38-e740b3110b44
+:END:
+#+title: genetic predisposition
+#+filetags: :psychology:
+
+* genetic predisposition
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758523709710
+:ANKI_NOTE_HASH: 096f3fdcd4bd17854ad8dc113f33e952
+:END:
+The inherited likelihood of developing specific traits or conditions due to genetic factors from biological parents

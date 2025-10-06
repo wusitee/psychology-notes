@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       3309d45b-a8ba-44d6-800e-347eb26310c6
+:END:
+#+title: synapse
+#+filetags: :psychology:
+
+* synapse
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758674194333
+:ANKI_NOTE_HASH: 03e7ff74821c719066260f8f7f76f4c9
+:END:
+The relying of information from one neuron to another across the synaptic gap
+* synaptic vesicles
+:PROPERTIES:
+:ID:       4b17b94c-5a54-4963-897b-a1bbc036181f
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758674457167
+:ANKI_NOTE_HASH: 1526b255cb96b98f77f41f8f70ab8ee2
+:END:
+Store various neurotransmitters (chemicals) that are released at the [[id:3309d45b-a8ba-44d6-800e-347eb26310c6][synapse]]
+* Synaptic Cleft/ Gap
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758674480634
+:ANKI_NOTE_HASH: e7e8787c040ad53a8e2311fed89d6fe6
+:END:
+Less than a millionth of an inch wide
+* Postsynaptic Membrane
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758674499829
+:ANKI_NOTE_HASH: bcd37f5c4873fa8f5ba4cc8f042df572
+:END:
+Contains specific receptors

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       9a333f5d-7e77-4e04-b7f8-2d7e1656433e
+:END:
+#+title: brain
+#+filetags: :psychology:
+
+* basic structure of brain
+:PROPERTIES:
+:ID:       17ed1fc9-b9d8-4dc9-9a49-aa142f8be4b6
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759130546500
+:ANKI_NOTE_HASH: 2adf3cfc7486fbeb06b834f004b77f78
+:END:
++ Most primitive part of the brain the brainstem is made up of three regions: Medulla oblongata, pons, and midbrain.
++ controls basic body functions such as breathing, swallowing, heart rate, blood pressure, consciousness, and whether one is awake or sleepy.
+* cerebellum
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759131153925
+:ANKI_NOTE_HASH: 14ee0220d8944ccc9a024a352be1107c
+:END:
+located at the back of the head, near the brainstem. It plays a crucial role in coordinating movement, balance, and posture, but is unable to initiate movement on its own.

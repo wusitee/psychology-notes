@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       51bf1a23-51fe-42ac-aa72-b834eade4d53
+:END:
+#+title: dopamine
+#+filetags: :psychology:
+
+* dopamine
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758676833616
+:ANKI_NOTE_HASH: ca9c419845af007956f74ab26ada00f2
+:END:
++ Pleasure chemical of the brain
++ released into the pleasure centers of the brain, related to reward motivation, addiction
++ person will repeat behaviors that lead to release of dopamine
+Surplus
+Too much dopamine has been associated with schizophrenia (most likely too many dopamine receptors), drug addiction
+Too litle is assciated with some forms of depression as well as the muscular rigidity and tremors found in Parkinson's disease

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       05c695fa-2bf9-46fc-8c61-cce2c792af33
+:END:
+#+title: corpus callosum
+#+filetags: :psychology:
+
+* corpus callosum
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759130137005
+:ANKI_NOTE_HASH: a1480cca93b875ec640fb11d374f388e
+:END:
+bundle of nerve fibers that connects the two hemispheres, messages move from one side of the brain to the other.

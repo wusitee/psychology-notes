@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       65044cc0-187e-45a3-9f40-61c5a316b649
+:END:
+#+title: glial cell
+#+filetags: :psychology:
+
+* glial cell
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758605329418
+:ANKI_NOTE_HASH: ad96331f503eda58234af76cb9594a89
+:END:
+Cells that provide physical support for the neurons to grow on and around (glue)
++ 90% of the brain is composed of glial cells
++ Surround neurons, get nutrients to the neurons, cleanup remains of neuron that have died, provide insulation

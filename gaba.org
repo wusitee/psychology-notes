@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       4201f0e9-9ba0-4b58-a299-e133788e44e1
+:END:
+#+title: GABA
+#+filetags: :psychology:
+
+* GABA
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758677662956
+:ANKI_NOTE_HASH: 62df566f00b2bde600e3b3eabf450159
+:END:
+slows things down, calming the central nervous system "natural tranquilizer" ([[id:a7dd0206-f03a-48b0-b4af-66a9664a2505][inhibitory neurotransmitter]])
++ increases sleepiness and decreases anxiety, alertness, memory and muscle tension
++ Surplus
+  Too much GABA and we are overly relaxed and sedated, often to the point that normal reactions are impaired (sleep/eating disorders)
++ Deficit
+  Too little GABA is associated with anxiety disorders, seizures, tremors, and insomnia

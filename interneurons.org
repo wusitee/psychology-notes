@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       85bd0cd7-3122-4a02-aa7c-ea80f76d264d
+:END:
+#+title: interneuron
+#+filetags: :psychology:
+
+* interneuron
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758602871875
+:ANKI_NOTE_HASH: 6e2d396b65008f82038787ca511f93cc
+:END:
+Neurons within the brain and spinal cord that communicate internally and intervene between the sensory inputs and motor outputs

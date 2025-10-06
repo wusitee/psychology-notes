@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       e17cb593-3e1e-41bb-a77c-714228f444dc
+:END:
+#+title: endocrine system
+#+filetags: :psychology:
+
+* endocrine system
+It consists of glands that secrete hormones into bloodstream
+* hormones
+:PROPERTIES:
+:ID:       7d943eb5-a6c4-478c-babd-537712f7b11c
+:END:
++ Slower to take effect, tend to be longer lasting
++ regulate metabolism and influence body growth, mood and sexual characteristics.
+* two communication systems in your body
+:PROPERTIES:
+:ID:       c9dd4fad-780f-4fd1-8099-7a5cacb57bfc
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758678708868
+:ANKI_NOTE_HASH: 41857df7d7c6e68fe1c726cb0ed7149c
+:END:
++ One works quickly ([[id:9283a826-3a5f-475d-ab7a-7c41186e3e37][nervous system]])
++ one works slowly ([[id:e17cb593-3e1e-41bb-a77c-714228f444dc][endocrine system]])

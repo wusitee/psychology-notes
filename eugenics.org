@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       e928ecff-6466-4398-af68-d8861c87e1aa
+:END:
+#+title: eugenics
+#+filetags: :psychology:
+
+* eugenics
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1758523885033
+:ANKI_NOTE_HASH: d604a0638807f397eaf1c1560fe5dfa1
+:END:
+Selective breeding, selective sterilization

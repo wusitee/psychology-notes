@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       1b46068f-3498-496d-9a88-f07fcaed91c3
+:END:
+#+title: structure of neuron
+#+filetags: :psychology:
+
+* structure of neuron
+1. [[id:12b77036-85df-4286-977d-6bedc08fd388][motor neuron]] as the prototypical version
+2.
