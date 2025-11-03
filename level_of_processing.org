@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       393e2a90-20b2-44e4-a3d6-0eb65207afd9
+:END:
+#+title: level of processing
+#+filetags: :psychology:
+
+* level of processing
+how long and how well we remember information depends on how deeply we process the information when it is encoded.
+From shallow to deep.
+1. structural
+2. phonemic
+3. semantic
+* structural processing
+:PROPERTIES:
+:ID:       8f567f01-efd8-45e9-a74b-0d98e8a07d49
+:ROAM_ALIASES: "shallow processing"
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762129766260
+:ANKI_NOTE_HASH: c338730f15275cfac00720177ce10f58
+:END:
+[[id:0f751f3d-608b-4394-9f09-81158927cf1b][encoding]] on a basic level based on the structure of appearance
++ Shallow processing usually only results in the short term retention of the information
+* phonemic processing
+:PROPERTIES:
+:ID:       831f152b-e56e-45ea-971f-cf5dcc277b3b
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762129821485
+:ANKI_NOTE_HASH: 789f9d2d6f02e3efd91bfbcb0074c360
+:END:
+[[id:0f751f3d-608b-4394-9f09-81158927cf1b][encoding]] on a intermediate level based on the sound and pitch
++ results in the relatively longer retention of the information, still has little attention to meaning.
+* semantic processing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       068a6aee-d96f-4c68-88a4-fbb3f5960b8b
+:ANKI_NOTE_ID: 1762129978261
+:ANKI_NOTE_HASH: 72a4b8b7d550c4ac8078e327e70550f3
+:END:
+semantic encoding occurs when we attach meaning to information and create associations between the new memory and existing memories
++ make remembering information easier, and retention longer.

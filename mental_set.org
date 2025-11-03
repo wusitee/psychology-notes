@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       68c5ab33-6a40-46b3-a0ba-18b825ef8f8d
+:END:
+#+title: mental set
+#+filetags: :psychology:
+
+* mental set
+** Text
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_FAILURE_REASON: cannot create note for unknown reason
+:END:
+A {{c1::mental set}} is a psychological tendency to approach problems in a way that has been successful in the past.

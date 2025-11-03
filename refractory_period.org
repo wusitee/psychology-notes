@@ -18,7 +18,7 @@ A cell in incapable of repeating an action potential
 :ID:       7864e230-86ab-4e4e-ab0a-6246c47339de
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1758606771388
-:ANKI_NOTE_HASH: 6a0f348ee7e48b10b18fcd8d5a0084d2
+:ANKI_NOTE_HASH: 61ad246b0ed9cf6e76ff002117be6a21
 :END:
 Period immediately after an action potential when another action potential cannot occur
 * relative refractory period

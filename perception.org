@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       d0e080a9-5876-49b5-94b6-ebedeeea2ad8
+:ROAM_ALIASES: preceive
+:END:
+#+title: perception
+#+filetags: :psychology:
+
+* perception
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761610218647
+:ANKI_NOTE_HASH: 1adb9f4eab73ba678bf901b005432962
+:END:
+Process by which we select, organize, and *interpret* sensory information in order to *recognize meaningful objects and events*.
++ The brain consciously makes sense out of the sensory input.
++ [[id:85d9d894-956b-4545-a660-99b1d843c446][sensation]] -> [[id:9a333f5d-7e77-4e04-b7f8-2d7e1656433e][brain]] -> [[id:d0e080a9-5876-49b5-94b6-ebedeeea2ad8][perception]]
+* bottom-up processing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761610668807
+:ANKI_NOTE_HASH: e6c43c59231ac998c8c6cb563231d78c
+:ID:       135de626-b03c-4279-b0a7-a1c6a64beedd
+:END:
+Our brain makes sense of information by starting with the small details and them building up to a complete perception
++ ting details -> whole perception
++ requires no previews knowledge
+* top down processing
+:PROPERTIES:
+:ID:       fe6ea0a4-c10d-42ef-b5b1-5025485e305e
+:END:
+involves interpreting sensory information based on the larger context, prior knowledge, and expectation.
+* perceptual set
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761611009818
+:ANKI_NOTE_HASH: 4c1adbafefcf465d26f39e9365722fce
+:END:
+predisposition to perceive things in a certain way
++ we often tend to notice only certain aspects of an object or situation while ignoring other details.

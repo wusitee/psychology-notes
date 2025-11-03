@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       056d66c0-b5eb-4819-b0d9-2d2c473e6c72
+:ROAM_ALIASES: "Functional MRI"
+:END:
+#+title: fMRI
+#+filetags: :psychology:
+
+* fMRI
+Measuring brain activity (not the structure), detects the changes in blood oxygenation and flow that occur in response to neural activity
+(More oxygen = Increases to active area)

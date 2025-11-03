@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       940276db-be3c-41ee-9be2-90a4f1c0c46f
+:END:
+#+title: audition
+#+filetags: :psychology:
+
+* loudness
+:PROPERTIES:
+:ID:       8c6caea7-a502-4304-a793-eae983683fc9
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760573824480
+:ANKI_NOTE_HASH: aabc057abc13a3714cfe361ae73f2348
+:END:
+[[id:82c2dfa0-9c4b-4a19-8821-deeefb30b904][amplitude]] determines the loudness of sound wave.
+* pitch
+frequency of sound.
+* frequency [[id:8b8f2642-cf54-4d93-8566-21f475c94ba1][theory]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       1c29fbbb-5975-49b7-b2a2-d94ef0aff68a
+:ANKI_NOTE_ID: 1760574792376
+:ANKI_NOTE_HASH: 625ccb8603a27602609e0c12e02d23d3
+:END:
+higher frequency sounds lead to faster nerve fiber's firing rates, resulting in higher perceived piches.
+* place theory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       d62b10f3-2c5b-411f-a5a4-8610e6901d81
+:ANKI_NOTE_ID: 1760574762103
+:ANKI_NOTE_HASH: df23abb63c50d92c469ea63536b06a05
+:END:
+Idea that different parts of the inner ear detect different sound frequencies
++ High pitches are sensed near the entrance, low pitches near the end
+* volley principle
+:PROPERTIES:
+:ID:       fc244584-06b8-4821-9225-a5ca5d96d405
+:END:
+a theory that explains how groups of neurons in the auditory system work together to encode sound frequencies.
+* sound localization
+:PROPERTIES:
+:ID:       9d8e0fa7-2a85-42a5-a7a0-ac4c4cb7cefe
+:END:
+The brain's ability to determine the location of a sound source in space
++ it relies on cues such as differences in arrival time and intensity between the ears.
+* conduction deafness
+:PROPERTIES:
+:ID:       3b0b3174-0e9d-45af-9878-bf1bc955773a
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760575282947
+:ANKI_NOTE_HASH: 304bd7eb7286e268076ac2a44ca18f39
+:END:
+caused by strutural damage to the mechanical system with the outer of middle ear
++ hearing aids can compensate
+* sensorineural deafness
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       b2919808-155e-492d-906e-9cc7b0a8a53c
+:ANKI_NOTE_ID: 1760575336802
+:ANKI_NOTE_HASH: 30e096ea3a6db4c2d081ea4529b7a34d
+:END:
+occurs when the inner ear, auditory nerve itself is not functioning properly

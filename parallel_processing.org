@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       ecd9a783-5c51-446f-bfa4-ab46e16bf531
+:END:
+#+title: parallel processing
+#+filetags: :psychology:
+
+* automatic processing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762129168360
+:ANKI_NOTE_HASH: 84b303f3f290e0f80568388645b960f2
+:END:
+we process an enormous amount of information effortlessly at once where you don't think about it, such as the following:
+space, time, frequency
+* effortful processing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762129168367
+:ANKI_NOTE_HASH: 68d189f958cdd08c3d0165453c19b3e1
+:END:
+encoding that requires attention and [[id:f51d2f19-33be-47af-8fcd-20ddb58dfe8a][conscious]] effort. You must purposely try to remember.

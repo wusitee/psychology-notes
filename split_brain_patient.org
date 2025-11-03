@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       432fb3cf-4c8a-4be5-b273-e768290aba9a
+:END:
+#+title: split-brain patient
+#+filetags: :psychology:
+
+* split-brain patient
+The aim is to treat severe seizures (epilepsy)
+-> split the [[id:05c695fa-2bf9-46fc-8c61-cce2c792af33][corpus callosum]] -> Inhibited communication between two hemispheres

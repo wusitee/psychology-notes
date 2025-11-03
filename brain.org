@@ -5,19 +5,62 @@
 #+title: brain
 #+filetags: :psychology:
 
-* basic structure of brain
+* basic structure of brain :ATTACH:
 :PROPERTIES:
 :ID:       17ed1fc9-b9d8-4dc9-9a49-aa142f8be4b6
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1759130546500
 :ANKI_NOTE_HASH: 2adf3cfc7486fbeb06b834f004b77f78
 :END:
-+ Most primitive part of the brain the brainstem is made up of three regions: Medulla oblongata, pons, and midbrain.
++ Most primitive part of the brain the brainstem is made up of three regions: [[id:d6751b71-8c00-4933-b4fa-d2c25adb0353][Medulla oblongata]], [[id:38d62b18-a405-45a7-a342-879d9f11065f][pons]], and midbrain.
 + controls basic body functions such as breathing, swallowing, heart rate, blood pressure, consciousness, and whether one is awake or sleepy.
+#+attr_html: :width 530px
+[[attachment:CopyQ.XBacTb.png]]
 * cerebellum
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1759131153925
 :ANKI_NOTE_HASH: 14ee0220d8944ccc9a024a352be1107c
+:ID:       4fab3a2b-335a-4ccc-99ad-be4c899c35ce
 :END:
-located at the back of the head, near the brainstem. It plays a crucial role in coordinating movement, balance, and posture, but is unable to initiate movement on its own.
+located at the back of the head, near the [[id:a270109d-72f7-44c8-95bf-929d862595b5][brainstem]]. It plays a crucial role in coordinating *movement, balance, and posture*, but is unable to initiate movement on its own.
+* cerebrum
+:PROPERTIES:
+:ID:       4affe415-57e1-4065-8266-654907f41951
+:END:
++ *Make us human*
++ largest part of the brain
++ Made up of several regions
+* hemisphere
+:PROPERTIES:
+:ID:       ae2705e6-9595-4990-96d0-0300c5334c2f
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759829010575
+:ANKI_NOTE_HASH: a7263d71f4eaf841da85834f6e3ebff8
+:END:
+The brain has two hemispheres, the left controls the right side of the body, the right hemisphere controls the left side of the body
++ the two sides of the brain are always working together
+* lateralization
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759130226499
+:ANKI_NOTE_HASH: 1c2e86808e29427ffa047393c23be9c6
+:ID:       262cae63-752b-44f0-944d-6a1a5da8623e
+:END:
+There is some evidence that each brain [[id:ae2705e6-9595-4990-96d0-0300c5334c2f][hemisphere]] has its own distinct functions:
+* left hemisphere
+:PROPERTIES:
+:ID:       236c6228-e399-4591-908c-b774de761cc3
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759130226508
+:ANKI_NOTE_HASH: bbc7d6858c89645c944f30ea25c2b68a
+:END:
+specializes in language, speech, handwriting, calculation, sense of time and rhythm, and basically any kind of though requiring analysis.
+* right hemisphere
+:PROPERTIES:
+:ID:       878db809-f36d-4972-b047-0d8bc6a75efd
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759130273849
+:ANKI_NOTE_HASH: 09a99637817b5c410d2448afd895b493
+:END:
+Appears to specialize in more widespread processing involving perception, visualization, spatial perception, recognition of patters, faces, emotions, melodies, and expression of emotion.

@@ -9,6 +9,6 @@
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1757045443772
-:ANKI_NOTE_HASH: 441d642d5d9258ab5d5e176ef1b85673
+:ANKI_NOTE_HASH: 9bc71345fff2ebad57c737fb5a5cd599
 :END:
-Individuals may change thir behavior due to the attention they are receiving from researchers in [[id:b61aa144-7892-40ca-ac07-aa5b2631349c][observational study]].
+Individuals may change their behavior due to the attention they are receiving from researchers in [[id:b61aa144-7892-40ca-ac07-aa5b2631349c][observational study]].

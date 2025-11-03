@@ -1,0 +1,162 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       8d4cc5a9-20bb-4d80-821d-34fb3fd83153
+:END:
+#+title: sleep
+#+filetags: :psychology:
+
+* circadian Rhythm
+:PROPERTIES:
+:ID:       37d4ef2d-1e4c-45d6-a5fa-7f155cc9ccb0
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760423908651
+:ANKI_NOTE_HASH: d7cf27811ceed2c398c97ac10ff9c70a
+:END:
+the cycle of physiological and biological processes that fluctuate on a roughly /24-hour timetable/.
++ Sleep and wakefulness/ Metabolism / Corebody temperature / Cortisol levels / Melatonin levels / Other hormones (growth hormone, etc).
+* What can disrupt our circadian rhythm
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760423894150
+:ANKI_NOTE_HASH: 6fe6aa9b545047e02629633af2cd6c92
+:END:
+A temporary disruption of the body's circadian rhythm due to rapid travel across multiple time zones
+* shift work
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760423894159
+:ANKI_NOTE_HASH: 0f332bcf5aa3bafba730bd0e64d71521
+:END:
+Employment schedules that require working outside of typical daytime hours, often disrupting the natural circadian rhythm.
+* sleep cycle
+:PROPERTIES:
+:ID:       8ead1d77-23e8-495f-9ecd-f038c7cf2f99
+:END:
+Sleep has a biological rhythm
++ cycle every 90-110 minutes
++ the pattern occurs three to five times per night
+** NREM
+1. [[id:b96ba7aa-7f0c-4449-b358-a1f6c90237ec][light sleep]]
+2. [[id:a5b2c798-dc79-4923-883b-95ae9163b669][sleep spindle]]
+3. [[id:6c17ed87-4be8-44a5-95a3-e3d7e4b9454d][deep sleep]]
+* deep sleep
+:PROPERTIES:
+:ID:       6c17ed87-4be8-44a5-95a3-e3d7e4b9454d
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760425087026
+:ANKI_NOTE_HASH: 2d5eb8d28c468e39de0f1d95eef47edf
+:END:
+slow-wave sleep begin to appear after about 30 minutes of sleep
++ vital for restoring body's growth hormones and the overall health
++ difficult to be awaken breathing slowed down, pulse slowed down
+* light sleep
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760424512927
+:ANKI_NOTE_HASH: 0a4a150b3b437e65efd2a6067a29bf28
+:ID:       b96ba7aa-7f0c-4449-b358-a1f6c90237ec
+:END:
+transition period between wakefulness and [[id:8d4cc5a9-20bb-4d80-821d-34fb3fd83153][sleep]] drifting in & out of sleep (Lasting up to 5-10 mins)
++ Brain waves slow down, muscles relax, and we any experience sudden muscle contractions known as *hypnic jerks*.
++ people can be easily woken
+* sleep spindle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760424847989
+:ANKI_NOTE_HASH: a622c3b45e5e0d9a27cf51c2998b99b6
+:ID:       a5b2c798-dc79-4923-883b-95ae9163b669
+:END:
+[[id:a5b2c798-dc79-4923-883b-95ae9163b669][sleep]] spindles are slower paced waves with spikes comparable to the low-amplitude theta waves of stage 1.
++ sleep talking usually garbled or nonsensical - can occur during sleep spindles.
+* rapid eye movement [[id:6c17ed87-4be8-44a5-95a3-e3d7e4b9454d][sleep]]
+:PROPERTIES:
+:ID:       71ba66f6-9c84-4f09-a9d5-eb1949110e7b
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760425821127
+:ANKI_NOTE_HASH: b19d16aedb9e9c966f91930e63c5da16
+:ROAM_ALIASES: REM
+:END:
+Paradoxical sleep -> rapid eye movements, brain waves as if we are awake, heart rate increases and blood pressure rises, BUT: muscles become paralyzed.
++ A reoccurring sleep stage during which vivid dreams commonly occur
+* rem rebound
+:PROPERTIES:
+:ID:       27bdb4cd-6343-42c6-b90c-212e1cc26f1c
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760426135692
+:ANKI_NOTE_HASH: 960f987d5b89f148cd397edc2fe86308
+:END:
+Increasing frequency and depth of rapid eye movement (REM) sleep which occurs after periods of sleep deprivation.
+* dream
+people all dream, even if we cannot recall our dreams (dreams are reported if awaken during [[id:71ba66f6-9c84-4f09-a9d5-eb1949110e7b][REM]] [[id:8d4cc5a9-20bb-4d80-821d-34fb3fd83153][sleep]])
++ the dreams can organize and consolidate memories or restoring resources.
++ dreams can also occur during: Stage 1-3 (NREM Sleep), but there are just fragments.
+* activation synthesis [[id:8b8f2642-cf54-4d93-8566-21f475c94ba1][theory]]
+Dreams reflect brain activation originating in the pons, followed by efforts of the cerebral cortex to weave these inputs into a story
++ damage to the forebrain can eliminate dreaming, even when the [[id:38d62b18-a405-45a7-a342-879d9f11065f][pons]] is intact.
+* sleep deprivation
+:PROPERTIES:
+:ID:       aca8f59e-6f89-4f1b-9112-27926050834e
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760426999328
+:ANKI_NOTE_HASH: 43f2388556f797ba4c03d51f5d98951f
+:END:
+Occurs any time that you get less sleep than your body needs
++ the degree of sleep deprivation can range from total acute sleep loss to chronic deprivation
++ the less sleep you get, the more your sleep deprivation will affect you.
+* rem sleep behavior disorder
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       53aecbc9-21c5-42e8-b007-233161fe5842
+:ANKI_NOTE_ID: 1760427090777
+:ANKI_NOTE_HASH: 1de98314dfeb6cd62c906b58a1efe5cc
+:END:
+A sleep disorder in which you physically act out vivid, often unpleasant dreams with vocal sounds and sudden, often violent arm and leg movements during [[id:71ba66f6-9c84-4f09-a9d5-eb1949110e7b][REM]] sleep.
+* insomnia
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       93b86612-d10a-4f72-9e54-a1da3a569803
+:ANKI_NOTE_ID: 1760427172453
+:ANKI_NOTE_HASH: b35ce2d63b1db14bf564d88be919b6da
+:END:
+The inability to get to sleep, stay asleep, or get a good quality of sleep
++ most people with insomnia spend more than 20 to 30 minutes falling asleep or getting back to sleep at night.
+* sleep apnea
+:PROPERTIES:
+:ID:       152eb1ac-99d3-4c7d-87a0-2b2e0ed3cc55
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760427924201
+:ANKI_NOTE_HASH: 82e69ce464e136338ba0eddb1e1393f3
+:END:
+chronic medical condition where the affected person repeatedly stops breathing during sleep.
+* narcolepsy
+:PROPERTIES:
+:ID:       37b4a1bb-e600-4b61-a970-57f88560cce7
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760427468603
+:ANKI_NOTE_HASH: 92deefa568ec737a4607c1799465951f
+:END:
+sleep disorder in which a person falls immediately into REM sleep during the day without warning
+* somnambulism
+:PROPERTIES:
+:ID:       1438259b-aa9d-4cbe-aac4-1b159f6c8b84
+:ROAM_ALIASES: sleepwalking
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760427756702
+:ANKI_NOTE_HASH: adfe549dae555fd9c5fc83b958870df0
+:END:
+People get up and walk around while asleep
++ sleepwalkers tend to remain in [[id:6c17ed87-4be8-44a5-95a3-e3d7e4b9454d][deep sleep]] during sleepwalking episodes
++ sleepwalking is more common in children.
+* sleep disorder
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760427945398
+:ANKI_NOTE_HASH: 7ffad0a9fd839c630238e49d0c99cace
+:ID:       94efbac8-25bd-4f99-b703-a2221192c4b1
+:END:
+1. [[id:37b4a1bb-e600-4b61-a970-57f88560cce7][narcolepsy]]
+2. [[id:1438259b-aa9d-4cbe-aac4-1b159f6c8b84][somnambulism]]
+3. [[id:53aecbc9-21c5-42e8-b007-233161fe5842][rem sleep behavior disorder]]
+4. [[id:aca8f59e-6f89-4f1b-9112-27926050834e][sleep deprivation]]
+5. [[id:152eb1ac-99d3-4c7d-87a0-2b2e0ed3cc55][sleep apnea]]
+6. [[id:93b86612-d10a-4f72-9e54-a1da3a569803][insomnia]]

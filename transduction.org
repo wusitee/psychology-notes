@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       7afdd54b-4b46-49be-a0ee-2f35853fb2b8
+:END:
+#+title: transduction
+#+filetags: :psychology:
+
+* transduction
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760500995164
+:ANKI_NOTE_HASH: 33a0427c9654c1f90c8be8e4b7b2a057
+:END:
+The transformation of physical and chemical energy to electrochemcial energy (neural impulses) that can be understood by the brain.

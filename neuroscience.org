@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       b146fd54-f5af-4be3-904a-1cb15e126d64
+:END:
+#+title: neuroscience
+#+filetags: :psychology:
+
+* neuroscience
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760141900706
+:ANKI_NOTE_HASH: 5497f3f40faa27b07bf643eae769249e
+:END:
+It is an interdisciplinary brain science that works closely with other disciplines.

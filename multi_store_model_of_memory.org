@@ -1,0 +1,114 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       8aa726f8-55a6-4fca-b869-66ffe99172f0
+:END:
+#+title: multi-store model of memory
+#+filetags: :psychology:
+
+* multi-store model of memory
+three different [[id:a81d12e3-6b2d-44c3-8d57-b34b9756984d][memory]]
+ systems characterized by time frames.
+* sensory memory
+:PROPERTIES:
+:ID:       c5d7d6f3-2f33-4944-a124-88e612343f65
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762130631609
+:ANKI_NOTE_HASH: 2f032f97e492976a4ef130e6563a4519
+:END:
+retain information long enough for it to be recognized
++ [[id:17c37d71-bed4-46ac-bfce-34116b13bd35][iconic memory]]
+* iconic memory
+:PROPERTIES:
+:ID:       17c37d71-bed4-46ac-bfce-34116b13bd35
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762130631619
+:ANKI_NOTE_HASH: e45e0357b0006b2987e3b17a64809616
+:END:
+visual sensory input to the visual system goes into iconic [[id:a81d12e3-6b2d-44c3-8d57-b34b9756984d][memory]]
++ less than a second
+* echoic memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       44699a2c-2d46-41b5-9817-4d849cacf56d
+:ANKI_NOTE_ID: 1762131211637
+:ANKI_NOTE_HASH: 22b9897aed672ac37eeb09ee2991f8d7
+:END:
+The branch of sensory [[id:a81d12e3-6b2d-44c3-8d57-b34b9756984d][memory]] used by the auditory system
++ involves a very brief memory of sound a bit like an echo
++ duration 3-4 seconds
+* short-term memory
+:PROPERTIES:
+:ID:       1d1a1658-02ee-4ffb-8f4d-de28c6e47ae7
+:ROAM_ALIASES: STM
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762131459791
+:ANKI_NOTE_HASH: 10001bc6e71e7515920feaf1fa95efb1
+:END:
+The capacity for holding a small amount of information in an active, readily available state for about 20 to 30 seconds
++ information comes from paying attention to [[id:c5d7d6f3-2f33-4944-a124-88e612343f65][sensory memory]].
++ 7 (+-2) unrelated bits of information
+* working memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       fc9852ca-2a2e-4e22-999d-39ec4706228a
+:ANKI_NOTE_ID: 1762131765738
+:ANKI_NOTE_HASH: 8907153921749a9bc7cd8c4dd7a1ff28
+:END:
+a newer understanding of [[id:1d1a1658-02ee-4ffb-8f4d-de28c6e47ae7][short-term memory]] memory that adds conscious, active processing of incoming sensory information, and of information retrieved from long-term memory.
+* central executive system
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       bd6d0035-dce8-4b8e-85af-92272ba3b285
+:ANKI_NOTE_ID: 1762131860363
+:ANKI_NOTE_HASH: 839c046bc2d0e677709466e2ee6e7c97
+:END:
+Responsible for coordinating the other components of working memory.
+* phonological loop
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       5d46336c-d8a9-4901-a3d4-2f6a028d23ef
+:ANKI_NOTE_ID: 1762131885812
+:ANKI_NOTE_HASH: 89390082063dccb2a9c036326f92949f
+:END:
+Responsible for the temporary storage of verbal information
+* visuospatial sketchpad
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       2838fa33-712e-4eaf-ad66-968535994b66
+:ANKI_NOTE_ID: 1762132211273
+:ANKI_NOTE_HASH: 563102a993d5534367bc70f462c383a6
+:END:
+responsible for the temporary storage and manipulation of visual and spatial information
+* long-term memory
+:PROPERTIES:
+:ID:       30e3c231-4201-47ed-8dea-d3a7c025c64b
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762132391401
+:ANKI_NOTE_HASH: 8f3343460b5121cba5f954423bfd69ea
+:END:
+long-term memory has an incredibly vast storage capacity and some memories can last from the time they are created until we die
+* utilize mnemonic devices
+:PROPERTIES:
+:ID:       9018bf16-7faf-4622-bf63-71b109c73d24
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762132623551
+:ANKI_NOTE_HASH: ba6195c1815b5cd8e0fff8fd3de47051
+:END:
+mnemonics: [[id:0f751f3d-608b-4394-9f09-81158927cf1b][encoding]] strategies used to organize and/or chunk to be learned material, in order to make it more meaningful and easier to remember.
+* chunking
+:PROPERTIES:
+:ID:       eb03b99f-2d90-481e-bfb5-e445114c6738
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762132623559
+:ANKI_NOTE_HASH: 367404139319328cfe2dbf808c4dbfe9
+:END:
+process of taking individual pieces of information (chunks) and grouping them into larger units.
+* spacing effect
+:PROPERTIES:
+:ID:       d7d85b22-5227-4a1a-b2e8-af7c843d9045
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762132623565
+:ANKI_NOTE_HASH: ff604f38721c4bd165084ff0677bad05
+:END:
+information is better remembered when it is reviewed over spaced intervals of time (distributed practice), rather than being studied all at once (massed practice).
+* method of loci

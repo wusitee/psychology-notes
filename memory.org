@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       a81d12e3-6b2d-44c3-8d57-b34b9756984d
+:END:
+#+title: memory
+#+filetags: :psychology:
+
+* memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762128544149
+:ANKI_NOTE_HASH: cb91d75c016f917c35a19bf187dfdc94
+:END:
+The processes that allow us to record and later retrieve information
++ The persistence of learning over time through the *encoding, storage, and retrieval* of information.

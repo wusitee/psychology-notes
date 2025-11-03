@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       d772b944-ba02-43f6-83b5-bba45cc5514a
+:END:
+#+title: synesthesia
+#+filetags: :psychology:
+
+* synesthesia
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760501519877
+:ANKI_NOTE_HASH: 917983f3e231b87f7c9b75041da55c7b
+:END:
+a condition in which two [[id:85d9d894-956b-4545-a660-99b1d843c446][sense]]s or even more senses are sensed at the same time, where one type of stimulation evokes the sensation of other.

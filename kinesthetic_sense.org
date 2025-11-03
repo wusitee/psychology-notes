@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       5cfb83ac-f374-40fd-a9a7-05f4b88c8602
+:END:
+#+title: kinesthetic sense
+#+filetags: :psychology:
+
+* kinesthetic sense
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760577623053
+:ANKI_NOTE_HASH: 7296f578f8ea9fc3e2fb5f0dd7316945
+:END:
+this system gives us feedback about position and orientation of specific body parts

@@ -9,6 +9,6 @@
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1759130137005
-:ANKI_NOTE_HASH: a1480cca93b875ec640fb11d374f388e
+:ANKI_NOTE_HASH: 9e6154dbd15f42f3a2834bc64ed4f819
 :END:
-bundle of nerve fibers that connects the two hemispheres, messages move from one side of the brain to the other.
+bundle of nerve fibers that connects the two [[id:ae2705e6-9595-4990-96d0-0300c5334c2f][hemisphere]]s, messages move from one side of the [[id:9a333f5d-7e77-4e04-b7f8-2d7e1656433e][brain]] to the other.

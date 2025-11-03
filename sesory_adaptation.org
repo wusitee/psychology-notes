@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       61ac4755-8a2d-47fd-83c2-283aa8c73192
+:END:
+#+title: sesory adaptation
+#+filetags: :psychology:

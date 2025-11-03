@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       8119532c-70a8-4916-8d21-daff709076d3
+:END:
+#+title: neuroplasticity
+#+filetags: :psychology:
+
+* neuroplasticity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760576357202
+:ANKI_NOTE_HASH: 04e918fa341d2b7a03c42b019e13a921
+:END:
+The ability to *constantly change both the structure and function of many cells in the brain* in response to experience and even trauma.

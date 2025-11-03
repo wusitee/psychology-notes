@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       ef078b31-4e77-471e-8d56-53389f331883
+:END:
+#+title: olfaction
+#+filetags: :psychology:
+
+* olfaction
+the sense of smell is responsible for about 80% of what we taste (sensory interaction)
++ smell does not go to the [[id:2b21c6b0-3cbb-40c3-a9a0-213a2f085291][Thalamus]].
+* pheromone
+:PROPERTIES:
+:ID:       afad1bb0-d5f7-4d31-a4fb-0459d4f4fac5
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760577098137
+:ANKI_NOTE_HASH: fad0aa236a540c5c7820b134a73e629f
+:END:
+chemical messengers that are picked up through animals' sense of smell
++ jury is still out on whether they exist in humans.
+* semicircular canals
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       519a2f0e-5c0d-4bed-b11f-917bf047aeed
+:ANKI_NOTE_ID: 1760577209458
+:ANKI_NOTE_HASH: 4a93f007d9b5ab2cf538a07cd691ed80
+:END:
+inside each of these tubes is the fluid (How one's body is oriented with respect to gravity)

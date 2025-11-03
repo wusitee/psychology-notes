@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       4b8c3e21-beb4-45ff-b31f-b65255c37c0d
+:END:
+#+title: perception constancy
+#+filetags: :psychology:
+
+* perception constancy
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761809006730
+:ANKI_NOTE_HASH: c2602f1cda4789dac2319c59cb2d1cc4
+:END:
+- color constancy
+- shape constancy
+-

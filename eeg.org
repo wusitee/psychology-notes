@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       1f00d77d-087a-4892-acee-fd958fd88411
+:END:
+#+title: EEG
+#+filetags: :psychology:
+
+* EEG
+Measurement of the *electrical activity* of the brain by *recording from electrodes placed on the scalp*.
+* EEG as a tool to study the pattern of sleep
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760423986551
+:ANKI_NOTE_HASH: 177f21f21870cb519956665261e0529f
+:END:
++ [[id:8d4cc5a9-20bb-4d80-821d-34fb3fd83153][sleep]] lacks full awareness but the brain is still active
++ according to different brainwaves, different sleep stages and sleep cycles can be defined.

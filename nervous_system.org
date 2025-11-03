@@ -39,20 +39,21 @@ Includes the nerves that transmit signals from your brain to the skeletal muscle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1758527033754
-:ANKI_NOTE_HASH: 9121c53f8df794d20c415bfc485e0730
+:ANKI_NOTE_HASH: cf25645e9ffac1870059fe8988d07741
 :ID:       5fad8369-4d0f-4662-b983-e464e9871b25
 :END:
 Regulates involuntary and unconscious actions. It controls the glands and the muscles of the internal organs (Breathing blood pumping through veins, digestion, heartbeat)
-+ sympathetic nervous system
++ [[id:6bca65fb-bb17-4804-9b7b-ef67a393c802][sympathetic nervous system]]
++ [[id:730e502d-ef28-42e9-92df-7d97ec0e7b48][parasympathetic nervous system]]
 * sympathetic nervous system
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1758527030579
-:ANKI_NOTE_HASH: 03ca19bae7ccfeb0428a3ce1d535c0f8
+:ANKI_NOTE_HASH: 16cefd73021e05f0109eb0dc52d761c0
 :ID:       6bca65fb-bb17-4804-9b7b-ef67a393c802
 :END:
 Emergency response system, if something alarms, enrages, or challenges you "Fight, Flight or Freeze"
-+ Accelerate your heartbeat, raise your blood pressure, slow your digestion, raise your blood sugar, and cool you with perspiration, makiing you alert and ready for action.
++ Accelerate your heartbeat, raise your blood pressure, slow your digestion, raise your blood sugar, and cool you with perspiration, making you alert and ready for action.
 * parasympathetic nervous system
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic

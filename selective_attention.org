@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       18ace9bf-0e29-400b-b512-7584851f2ccc
+:END:
+#+title: selective attention
+#+filetags: :psychology:
+
+* selective attention
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761611321394
+:ANKI_NOTE_HASH: f2ad9f82eb443656037408150b3c4415
+:END:
+the process of focusing on a specific aspect of information while ignoring others
++ Allow us to prioritize sensory information that is most relevant to our current tasks.
+* cocktail party effect
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761611473065
+:ANKI_NOTE_HASH: c224284f69cffd809a886d69628143c3
+:ID:       a3fcc7a7-1aca-4e08-9085-c8fd7b56c9f2
+:END:
+ability to focus on a particular sound in noisy environment while partial filtering out other sounds
++ often happen when people mention our names or specific topics in loud or distracting environments.
+* inattentional blindness
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761612044509
+:ANKI_NOTE_HASH: fab294c3e8ddc9cbe53bd07d500c1d39
+:END:
+failing to see sth.
+** change blindness
+people's tendency to ignore changes in their visual environment when they occur in a region that is far away from their focus of attention
++ two-thirds of individuals giving directions failed to notice a change in the individual asking for directions

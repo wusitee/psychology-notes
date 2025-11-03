@@ -1,0 +1,76 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       f875f8dc-df1f-4234-8761-5deec139e3f7
+:END:
+#+title: depth perception
+#+filetags: :psychology:
+
+* depth perception
+The ability to [[id:d0e080a9-5876-49b5-94b6-ebedeeea2ad8][preceive]] depth.
+* visual cliff
+:PROPERTIES:
+:ID:       a7a0245f-507b-44dc-ad2a-c81e408fc698
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761614078391
+:ANKI_NOTE_HASH: eaa347e94b1d74567265556ea9b61f45
+:END:
+a visual cliff involves an apparent. but not actual drop from one surface to another, created to test babies' depth perception.
++ newborns can perceive depth (grows with age)
+* binocular cue
+:PROPERTIES:
+:ID:       7e9d99f8-4897-47cb-899d-92a480bddf19
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761614185018
+:ANKI_NOTE_HASH: ce382fc65e3396af86d1edc148639827
+:END:
+Binocular cues are those that require the use of both eyes (integrated by the brain) in order for us to perceive depth or distance.
+** Convergence
+:PROPERTIES:
+:ID:       ba347ad1-338e-4f73-aded-6f6ec3fb4815
+:END:
+Our eyes move together to focus on a close object (cross-eyed) and move farther apart for a distant object.
+* retinal disparity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761614278693
+:ANKI_NOTE_HASH: 0a167597fe81e928614e8e2d340c6836
+:END:
+The difference between the visual images that each eye perceives because of the different angles in which each eye views the world
++ close -greater disparity
+* monocular cue
+:PROPERTIES:
+:ID:       c3540092-37ec-4734-801a-a3c42486b292
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761805532966
+:ANKI_NOTE_HASH: 781f3fba7c344d26cbf7e2c813ea61ed
+:END:
+clues that can be used for depth perception that involves using only one eye.
+** linear perspective
+:PROPERTIES:
+:ID:       08654adf-0b1d-4129-9be8-75cacec60c59
+:END:
+Parallel lines appear to converge at a vanishing point on the horizon
++ the closer together the two lines are, the greater the distance will seem.
+** interposition
+:PROPERTIES:
+:ID:       15c7721a-b7a1-4797-98d5-a4c3f75cd716
+:ROAM_ALIASES: overlap
+:END:
+When one object overlaps another, the object that is partially obscured is perceived as being farther away.
+** relative size
+:PROPERTIES:
+:ID:       f4a9e29d-b48d-4257-9b52-058ad165536c
+:END:
+If two objects are roughly the same size, the father away object will appear smaller even though the objects are still the same size.
+** relative clarity
+:PROPERTIES:
+:ID:       2658e91f-32c0-4069-9ff6-ed717213b64a
+:END:
+we perceive hazy objects as farther away than sharp, clear objects
++ The farther something is from us, the less detail it conveys.
+** texture gradient
+:PROPERTIES:
+:ID:       b7c6b88a-478c-4331-bd9e-66274cb91728
+:END:
+distant objects have a smoother texture than nearby objects
++ more details for near ones.

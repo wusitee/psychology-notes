@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       f578d640-b867-430e-95d2-b8f6c3e9913e
+:END:
+#+title: tactile sense
+#+filetags: :psychology:
+
+* tactile sense
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760576043454
+:ANKI_NOTE_HASH: 7e4689c3bf59ff1d9f4ca59c076d8fea
+:END:
+receptors on the skin / in our internal organs
++ the senses of the skin, allow us to feel pressure, pain, cold and warmth.
+* Somesthetic senses
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760576043462
+:ANKI_NOTE_HASH: 10512e6006acf122b52b982e29ecf8e8
+:ID:       bf3b46e8-de04-4c0e-a0cc-e189ab37889a
+:END:
+Receptors on the skin/ in our internal organs (Skin = Largest sense organ)
++ The senses of the skin, allow us to feel pressure, pain, cold and warmth
+* hot and cold
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       86aa5d1a-679a-417c-ab0f-03bfdd579884
+:ANKI_NOTE_ID: 1760576092604
+:ANKI_NOTE_HASH: b15cbfd5b8e45f1180682dafbfeefec7
+:END:
+specialized sensory neurons in the skin that detect changes in temperature
++ Warm receptors respond to increases in temperature, while cold receptors respond to decreases.
+* pain
+:PROPERTIES:
+:ID:       0b1b6305-dfd3-4238-b703-eff4a2652c2c
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760576156752
+:ANKI_NOTE_HASH: 0ba22535e391634a99284365b3424cdc
+:END:
+pain is necessary for survival, which is body's warming sign that something isn't right
+* gate-control theory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       425bbdca-a57d-4e77-9fb5-6aa1120d6e23
+:ANKI_NOTE_ID: 1760576156761
+:ANKI_NOTE_HASH: 99764e5e9f42b1ca3ac13fa77ba79a35
+:END:
+the spinal cord contains a neurological "gate" that either blocks pain signals or allows them to continue on to the brain.
+* phantom limb sensation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       76ab94b6-5f89-4eb6-8e2d-d66854c8eef7
+:ANKI_NOTE_ID: 1760576321227
+:ANKI_NOTE_HASH: be63473a15607e0acc39b27e6f77a48f
+:END:
+*brain's continued perception of the limb, even though it's no longer there*.

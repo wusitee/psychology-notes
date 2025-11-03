@@ -12,7 +12,7 @@ Layer of fatty casing insulating membrane wraps around the axon to protect the n
 :ID:       b03e99e7-7654-4df3-a13a-7b3ee8e40e4c
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1758604165670
-:ANKI_NOTE_HASH: 1514da715ca8beb1765bf41f511f7290
+:ANKI_NOTE_HASH: 03273d1e176c0de9d5d88291c54a445d
 :END:
 Result from the destroy of myelin sheath (commonly based on genes)
-+ Damaged muscle control and movement, leading to symptoms like muscle weakness, loss of coordination, vision problems.
++ Damaged muscle control and movement, leading to symptoms like muscle weakness, loss of coordination, [[id:b7d82f0d-225f-4a35-bedc-aca64df7b69d][vision]] problems.

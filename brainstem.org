@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       a270109d-72f7-44c8-95bf-929d862595b5
+:END:
+Local Variables:
+eval: (require 'org-download)
+org-download-image-dir: "/home/aneeq/Myorg/anki-images/"
+eval: (anki-editor-mode)
+org-download-method: directory
+eval: (setq org-download-link-format "[[file:%s]]" org-download-abbreviate-filename-function #'file-relative-name org-download-link-format-function #'org-download-link-format-function-default)
+org-refile-targets: nil
+End:
+#+title: brainstem
+#+filetags: :psychology:
+
+* brainstem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759968634280
+:ANKI_NOTE_HASH: c8b43fb9b4fbbf3ca141ab92f2c8076e
+:END:
+Most primitive part of the [[id:17ed1fc9-b9d8-4dc9-9a49-aa142f8be4b6][brain]]
++ the brainstem is made up of three regions: [[id:d6751b71-8c00-4933-b4fa-d2c25adb0353][Medulla oblongata]], pons, and midbrain
++ Controls basic body functions such as breathing, swallowing, heart rate, blood pressure, consciousness, and whether one is awake or sleepy.
+* medulla oblongata
+:PROPERTIES:
+:ID:       d6751b71-8c00-4933-b4fa-d2c25adb0353
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759968698236
+:ANKI_NOTE_HASH: 95a0f2bb8f48fb7ce7f269fed68f7b65
+:END:
+Located at the top of the spinal cord (transition zone), controls life sustaining functions such as heart rate, breathing, and blood pressure (autonomic functions).
++ Where most fibers cross, resulting in contralateral (opposite side) control.
+* pons
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759969003253
+:ANKI_NOTE_HASH: e06926f492b623e226e6c8c6102e74ac
+:ID:       38d62b18-a405-45a7-a342-879d9f11065f
+:END:
+The larger swelling above the medulla that connects the top of the brain to that bottom, the bridge between cerebral hemispheres and both medulla & hemispheres and both medulla & cerebellum
++ Role in several [[id:5fad8369-4d0f-4662-b983-e464e9871b25][autonomic]] functions such as stimulating breathing and controlling sleep cycles and dream formation.
+* reticular formation
+:PROPERTIES:
+:ID:       2e118cef-57fb-4e53-9ebc-938ee9a2af3c
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759969147009
+:ANKI_NOTE_HASH: 1c27c310a601e185228d73cb055846ce
+:END:
+*Reticular activating system (RAS)* can maintain consciousness and alertness
++ Functions in sleep, *arousal from sleep* and the ability to focus attention

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       77e48b5d-a5c4-4e3f-9bb0-59212bf6cc79
+:END:
+#+title: cerebral cortex
+#+filetags: :psychology:
+
+* cerebral cortex
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759970433266
+:ANKI_NOTE_HASH: a4a7b781517b7b0030ff67d56e01841b
+:END:
++ Gray matter, named for its pinkish-gray color, is home to neurons (information processing)
+  = cerebral cortex.
++ white matter's job is to conduct, process, and send nerve signals up and down the spinal cord, home for information transmission.

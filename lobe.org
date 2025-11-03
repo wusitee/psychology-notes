@@ -1,0 +1,124 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       ccd848dd-a4a8-4e89-b15d-9a0705328bc3
+:END:
+#+title: lobe
+#+filetags: :psychology:
+
+* lobe
+Areas of the [[id:77e48b5d-a5c4-4e3f-9bb0-59212bf6cc79][cerebral cortex]], each with a specialty
++ divided into eight lobes, for in each hemisphere.
+* association area
+:PROPERTIES:
+:ID:       e7a35583-50d0-4d3d-b62f-83d71af3b373
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759970911366
+:ANKI_NOTE_HASH: 52ca54f4b63d9745e3517d73989bff23
+:END:
++ Any area not associated with receiving sensory information or coordinating muscle movements
++ involved in higher mental functions such as learning, remembering, think, and speaking
+* frontal lobe
+:PROPERTIES:
+:ID:       a868f216-9081-45a1-be3c-2426c63885e0
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759970959017
+:ANKI_NOTE_HASH: 7bb846a190a7565e07df2bd7df095483
+:END:
+Areas of the cortex located in the front and top of the brain
++ Associated with reasoning, motor skills, higher level cognition
++ [[id:e3dd9cd3-fe08-4a41-80e9-02d4a755531a][prefrontal cortex]] + [[id:de1cd4f2-e695-4955-953f-376884bcfc21][motor cortex]] + [[id:b533f86a-8595-4bfc-bfbb-13b87449c215][Broca's Area]]
+* parietal lobe
+:PROPERTIES:
+:ID:       04a02faf-292b-4fd5-8c03-d755c4311342
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759972094852
+:ANKI_NOTE_HASH: a59b261af405f10a5f6cc41e94333ecc
+:END:
+Sections of back the brain.
+* occipital lobe
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       be1cf8c8-aa98-4283-b1cc-8bcc3729a43e
+:ANKI_NOTE_ID: 1759972350215
+:ANKI_NOTE_HASH: 10d780d86e95b02906c5fa003e0794b4
+:END:
+Section of the brain located at the rear and bottom of each cerebral hemisphere.
+* temporal lobe
+:PROPERTIES:
+:ID:       7758b092-b598-4c85-b76f-a5a2a70d5f0e
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759972501290
+:ANKI_NOTE_HASH: c11778cce532b858120d200b45deb513
+:END:
+Areas of the cortex just behind the temples containing the neurons.
++ [[id:04cf43a4-5507-482a-9604-bfef791e6085][auditory cortex]]
+* auditory cortex
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759972552615
+:ANKI_NOTE_HASH: 9526f011871558fba8a3543d5351535c
+:ID:       04cf43a4-5507-482a-9604-bfef791e6085
+:END:
+auditory processing.
+* Wernicke's area
+:PROPERTIES:
+:ID:       f040a5b8-4bf1-4526-af7a-66884d557a23
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759972787729
+:ANKI_NOTE_HASH: 8323aae07f76cfb2e8a0a1f35a690de5
+:END:
+It is located in the [[id:7758b092-b598-4c85-b76f-a5a2a70d5f0e][temporal lobe]] on the left side of the brain and is responsible for the speech comprehension
+** Wernick's aphasia
+:PROPERTIES:
+:ID:       030efc55-d5f1-48c5-b306-a6c72a114958
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760422730550
+:ANKI_NOTE_HASH: 7bb797939517234fdce4175ae46fddde
+:END:
+Damage to Wernicke's area, can't speak correctly.
+* visual association cortex
+:PROPERTIES:
+:ID:       1f5fe677-815f-4e5b-b559-641a8a54a350
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759972446891
+:ANKI_NOTE_HASH: 0cbb461ed49c1f528aa0b60ddc6b07ed
+:END:
++ Processes visual information
+  Left half of visual field is processed in right occipital lobe, and vice versa
++ damage to occipital lobe will lead to the loss of [[id:b7d82f0d-225f-4a35-bedc-aca64df7b69d][vision]] /visual field cut
+* somatosensory cortex
+:PROPERTIES:
+:ID:       fbc8782c-d53a-4c14-8d70-5818d6d6ed87
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759972094857
+:ANKI_NOTE_HASH: e7142e5d283eba4e8c02ac589bb105ab
+:END:
+Receives and processes sensory information from the entire body.
++ At the front of [[id:04a02faf-292b-4fd5-8c03-d755c4311342][parietal lobe]]
+* prefrontal cortex
+:PROPERTIES:
+:ID:       e3dd9cd3-fe08-4a41-80e9-02d4a755531a
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759971289024
+:ANKI_NOTE_HASH: e126f7e1010720fc06efdbe2967ec182
+:END:
+This brain region has been implicated in planning complex cognitive behavior, like personality expression, executive functions, goal setting, *decision making*, *controlling the [[id:7e97ccb9-3a1e-4d5f-8d21-92d25d096922][impulse]]* moderating social behavior and moral judgments.
+* motor cortex
+:PROPERTIES:
+:ID:       de1cd4f2-e695-4955-953f-376884bcfc21
+:END:
+This area of the brain receives and utilizes information to control muscles and carry out body movements.
++ At the back of [[id:a868f216-9081-45a1-be3c-2426c63885e0][frontal lobe]]
+* Broca's Area
+:PROPERTIES:
+:ID:       b533f86a-8595-4bfc-bfbb-13b87449c215
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759971568168
+:ANKI_NOTE_HASH: 3b8173d1de9bd673088a2b34f4c89855
+:END:
+Located in the lower portion of the left [[id:a868f216-9081-45a1-be3c-2426c63885e0][frontal lobe]], controls motor functions involved with speech vocalization and production
+** Broca's aphasia
+:PROPERTIES:
+:ID:       e6ce513a-bbab-420b-a56f-4ffa44e8de87
+:END:
+Damage to Broca's area, which causes broken speech - halting with mispronounced words.

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       f51d2f19-33be-47af-8fcd-20ddb58dfe8a
+:END:
+#+title: consciousness
+#+filetags: :psychology:
+
+* conscious mind
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760423259699
+:ANKI_NOTE_HASH: 3d2da3af6266e5204c73977e617c7485
+:ID:       9c355736-d8ae-4b6c-9450-fde94884f906
+:END:
+Processing conscious thought and focusing your full attention at the task at hand (effortful processing)
+* unconscious mind
+:PROPERTIES:
+:ID:       ac91c7ed-a6d7-493e-9162-510714846050
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760423322175
+:ANKI_NOTE_HASH: 9cb8c46434d0d52dcee844de4a45cfd4
+:END:
+Processing that happens without conscious awareness and devotes its resource's to simple background tasks (automatic processing).

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       426418fd-f75a-4174-a824-c5a1d64d1e08
+:END:
+#+title: lesioning study
+#+filetags: :psychology:
+
+* lesioning study
+Injuries to / Destruction of the brain tissue
++ [[id:e7620d50-ed4e-47b8-99ed-130540a98b2a][subject]] of research: Humans with brain lesions
++ goal of research: Establishing the function of the area where their lesion occurred
+** examples
+[[id:e6ce513a-bbab-420b-a56f-4ffa44e8de87][Broca's aphasia]]

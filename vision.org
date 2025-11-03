@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       b7d82f0d-225f-4a35-bedc-aca64df7b69d
+:END:
+#+title: vision
+#+filetags: :psychology:
+
+* vision
+The faculty to see things
++ dominant sense
+* crystalline lens
+:PROPERTIES:
+:ID:       f821e4b3-dc03-436e-bc6c-b73554a3be82
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760506777208
+:ANKI_NOTE_HASH: 9f13929bd3c163d3c99ccf36f76531c1
+:END:
+The transparent structure behind the pupil that changes shape to help focus [[id:32085407-6196-4c1c-b230-df5e44c37680][image]]s on the retina, focus eye on near on for objects.
+* Accommodation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1760506728590
+:ANKI_NOTE_HASH: 318e0832f4d9fd8f28a10029206a91b1
+:ID:       7a745f7e-8398-41e5-8b63-f3d862f6840f
+:END:
+** Text
++ The process of [[id:f821e4b3-dc03-436e-bc6c-b73554a3be82][crystalline lens]] changing shape is called {{c1::accommodation}}.
+* retina
+:PROPERTIES:
+:ID:       4ced492c-e19f-4f46-b233-a59ff99c98fc
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_FAILURE_REASON: cannot create note for unknown reason
+:END:
+Our eye sees everything upside down.
+* Fovea
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       9ece64ea-2a07-4374-85a3-096610488bb7
+:ANKI_NOTE_ID: 1760507897557
+:ANKI_NOTE_HASH: 186aa7f6794321c0595b54a4184ce4e6
+:END:
+The fovea is the area of sharpest central vision and helps
+* rod
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760507928333
+:ANKI_NOTE_HASH: badb73bf746caec3346eeab5e18e3ec1
+:ID:       17ee7108-4030-4910-a755-9234a4835ba1
+:END:
+specialized photoreceptor cells in the eye's retina that are responsible for vision in low light, enabling you to see in dim conditions such as dusk or at night
+* cone
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       071fab65-4bcd-450d-a164-2698d5854d8c
+:ANKI_NOTE_ID: 1760919259398
+:ANKI_NOTE_HASH: c12315d3070cf2d06c556719f65a09dd
+:END:
+Retinal receptors that perceive color and detail in bright light
+* optic nerve
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760507959584
+:ANKI_NOTE_HASH: a22c83ab16558d4c08dcd81c54194c48
+:ID:       ff1cba03-4845-452e-a489-c17a9d0dec96
+:END:
+The nerve that carries neural impulses from the eye to the brain.
+* opponent process theory
+:PROPERTIES:
+:ID:       d28989a3-8bc0-4653-82b8-da91d0ca3d7d
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760919277666
+:ANKI_NOTE_HASH: 8649dd6683164c2726f7d6233f0cd0ff
+:END:
+Color perception is controlled by opponent systems: a blue-yellw, a red-green and black-white mechanism
++ If one sensor is stimulated
+* prosopagnosia
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760573349019
+:ANKI_NOTE_HASH: 293e1767d349b959dc92b42b4c60e961
+:ID:       cd32dced-0631-4a03-b1f6-4957afef00a9
+:END:
+A condition where you struggle to recognize faces or can't interpret facial expressions and cues.
+* blindsight
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       fb0b553d-00c0-4562-bb28-0e78098bf5fb
+:ANKI_NOTE_ID: 1760573445641
+:ANKI_NOTE_HASH: 1831e9ce522c4fd22d8729f6e2436a51
+:END:
+A phenomenon where a person whose [[id:be1cf8c8-aa98-4283-b1cc-8bcc3729a43e][occipital lobe]] is damaged can still sense objects or movements in their surroundings without consciously perceiving them.

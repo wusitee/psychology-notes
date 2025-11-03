@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       5e3a9bca-a942-4543-b3f7-d6485ba78ac8
+:END:
+#+title: wave
+#+filetags: :physics:
+
+* wave :ATTACH:
+#+attr_html: :width 500px
+[[attachment:CopyQ.DTNPiu.png]]
+* wave front :ATTACH:
+wave front is perpendicular to wave
+#+attr_html: :width 200px
+[[attachment:CopyQ.NPnHQd.png]]
+* wave length :psychology:physics:
+:PROPERTIES:
+:ID:       fd02f40a-67fc-45a4-8f7d-14fac713e080
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760506323036
+:ANKI_NOTE_HASH: fa77f35c0e4705ae867ca6d1e5e61bdb
+:END:
+The distance from the wave peak to the next peak
++ Determine the color.
+* amplitude :psychology:physics:
+:PROPERTIES:
+:ID:       82c2dfa0-9c4b-4a19-8821-deeefb30b904
+:END:
+The height (intensity) of the [[id:5e3a9bca-a942-4543-b3f7-d6485ba78ac8][wave]].

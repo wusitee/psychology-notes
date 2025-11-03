@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       ce428887-8012-4b74-9e05-2f80b77a9645
+:END:
+#+title: apparent movement
+#+filetags: :psychology:
+
+* apparent movement
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761613723941
+:ANKI_NOTE_HASH: c488713cf8af8626fd379de2be55536b
+:END:
+apparent movement "Motion [[id:d0e080a9-5876-49b5-94b6-ebedeeea2ad8][perception]]"
+The perception of motion when there isn't any actual movement

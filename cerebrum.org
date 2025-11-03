@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       9773cfee-1b48-4c87-80ac-7e0eee3a3640
+:END:
+#+title: cerebrum
+#+filetags: :psychology:
+
+* cerebrum
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759969459686
+:ANKI_NOTE_HASH: aef1110b8ad1286d446fba779ce51e0f
+:END:
++ *Make us human*
++ largest part of the brain
++ Made up of several regions
+* Thalamus
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759969671485
+:ANKI_NOTE_HASH: 8fd280dc7bae0010e12d74f8204f2719
+:ID:       2b21c6b0-3cbb-40c3-a9a0-213a2f085291
+:END:
+Brain's sensory control center/relay station.
++ Receives *sensory information (all the senses except smell)* and sends them to the higher brain regions
++ also receives some of the higher brain's replies, which it then directs to the medulla and to the [[id:4fab3a2b-335a-4ccc-99ad-be4c899c35ce][cerebellum]].

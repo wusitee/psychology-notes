@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       f11f7bb3-8b03-4171-87d6-c827fdc4357c
+:END:
+#+title: brain scanning
+#+filetags: :psychology:
+
+* brain scanning
+Not used to treat disorders
+Rather they provide information about the [[id:17ed1fc9-b9d8-4dc9-9a49-aa142f8be4b6][basic structure of brain]]
++ X-ray/CT
++ MRI -> soft tissues
++ fMRI -> Activities of your brain.
++ EEG
++ MEG
++ PET

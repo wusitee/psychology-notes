@@ -1,0 +1,71 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       85d9d894-956b-4545-a660-99b1d843c446
+:ROAM_ALIASES: JND sense
+:END:
+#+title: sensation
+#+filetags: :psychology:
+
+* sensation
+** types of sensation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760501127679
+:ANKI_NOTE_HASH: 87c00412d0fa0d93376c982e36290888
+:END:
++ [[id:b7d82f0d-225f-4a35-bedc-aca64df7b69d][vision]]
++ [[id:ef078b31-4e77-471e-8d56-53389f331883][olfaction]]
++ [[id:e39bdd95-da9b-497a-ac9d-f9d5a5fdff78][gustation]]
++ [[id:f578d640-b867-430e-95d2-b8f6c3e9913e][tactile]]
++ [[id:940276db-be3c-41ee-9be2-90a4f1c0c46f][audition]]
+** steps of sensation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760501121980
+:ANKI_NOTE_HASH: 4c15147782bfa3e116d059850a0469e4
+:END:
+1. receive sensory stimulation
+2. transform that stimulation into [[id:7e97ccb9-3a1e-4d5f-8d21-92d25d096922][neural impulse]]
+3. deliver the neural information to the brain.
+* sensory adaptation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       363cc933-c4eb-4e5b-8e76-7bbc849ba3e9
+:ANKI_NOTE_ID: 1760501721704
+:ANKI_NOTE_HASH: 521b69ac55d5215f5f9587969e188ae7
+:END:
+reduction in sensitivity to a stimulus after constant exposure to it.
+* absolute threshold
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       79987331-6018-4f94-a900-c17a1c68f3fa
+:ANKI_NOTE_ID: 1760502002206
+:ANKI_NOTE_HASH: d338b41f4a26e9e61dd17622c3262b56
+:END:
+smallest level of stimulus that can be detected, at 50% of the time.
++ At this point, half the time you could detect the sound and half the time you could not.
+* just noticeable difference
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760502439533
+:ANKI_NOTE_HASH: b224eac620e34d40bf10768551a17348
+:ID:       ac56e01a-90f9-4939-8595-2d88f95ba673
+:END:
++ smallest noticeable change between two stimuli
++ measures sensitivity to differences in stimulus intensity
+* sensation & perception
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1761610504019
+:ANKI_NOTE_HASH: 2ea07d79f0811bf77787b1b918e83a10
+:END:
+** sensation
+physiological process
+the process of transduction
+receive information and convert to [[id:7e97ccb9-3a1e-4d5f-8d21-92d25d096922][neural impulse]]
+** perception
+Psychological  process
+the process of making sense
+same sensation may lead to different [[id:d0e080a9-5876-49b5-94b6-ebedeeea2ad8][perception]].
+** example
+[[id:cd32dced-0631-4a03-b1f6-4957afef00a9][prosopagnosia]] sensation is good, perception is bad.

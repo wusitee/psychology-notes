@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       e39bdd95-da9b-497a-ac9d-f9d5a5fdff78
+:END:
+#+title: gustation
+#+filetags: :psychology:
+
+* gustation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760575888654
+:ANKI_NOTE_HASH: 8db2e36afc5cb2b84143f08ff94b8598
+:END:
+There are 6 basic tastes: sweet, salty, sour, bitter, umami and oleogustus.
+* taste receptors
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760576530653
+:ANKI_NOTE_HASH: 1471f58ec5e1c3c180f1d0fb997f2589
+:ID:       fc681c29-6263-4ca1-a156-7ecd2c13a629
+:END:
+The number of taste receptors on the tongue is related to how sensitive people are to tastes, classifying them as supertasters, medium tasters, or nontasters.
+* tasters
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1760576810954
+:ANKI_NOTE_HASH: 4a4dce3872ccd47effcbfcea63dde9c6
+:END:
++ supertasters - highly sensitive
++ medium tasters - average sensitivity
++ nontasters - less sensitive to taste

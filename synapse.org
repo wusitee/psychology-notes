@@ -11,7 +11,7 @@
 :ANKI_NOTE_ID: 1758674194333
 :ANKI_NOTE_HASH: 03e7ff74821c719066260f8f7f76f4c9
 :END:
-The relying of information from one neuron to another across the synaptic gap
+The relaying of information from one neuron to another across the synaptic gap
 * synaptic vesicles
 :PROPERTIES:
 :ID:       4b17b94c-5a54-4963-897b-a1bbc036181f

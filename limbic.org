@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       115c1750-5603-48c4-9b95-429ee370ff6f
+:END:
+#+title: limbic
+#+filetags: :psychology:
+
+* limbic
+Network of structures located beneath the cerebral cortex
++ Coordinates:
+  1. Feeding (satiety & hunger)
+  2. Forgetting (memory)
+  3. Fighting (emotional response)
+  4. Fornicating (sexual)
+* Hippocampus
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       af49ae14-3614-4a9e-80c0-6e3c0bb132bf
+:ANKI_NOTE_ID: 1759969966066
+:ANKI_NOTE_HASH: 4d7b9a9705bb631982353ccf77bc3e79
+:END:
+Formation, organization, and storage of new *memories* as well as connecting certain sensations and emotions these memories.
+* amygdala
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759970132075
+:ANKI_NOTE_HASH: aa93a6a7f6676c21ef596c630882ec0e
+:ID:       5d817d05-96ad-4fc5-b895-700138ec30b9
+:END:
+/fear center/
+primarily involved in processing emotion and survival responses
++ becomes active during threatening situations
++ influence aggression and fear
+* hypothalamus
+:PROPERTIES:
+:ID:       0a110458-d905-458a-95c1-85eb306df814
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1759970226791
+:ANKI_NOTE_HASH: d95408a46451efb3340d940eb1ec1a4d
+:END:
+Medial Temporal Lobe
++ Regulates motivated behavior like hunger, thirst, sexual arousal (libido)
++ regulation for body temperature circadian rhythms
++ controls the [[id:e17cb593-3e1e-41bb-a77c-714228f444dc][endocrine]] system (by controlling pituitary gland)
