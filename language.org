@@ -1,0 +1,107 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       438db15b-8ce7-4ee3-aaa5-81a34225f0a3
+:END:
+#+title: language
+#+filetags: :psychology:
+
+* language
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764217089701
+:ANKI_NOTE_HASH: 324005700f3c81159d531edc00c46bff
+:END:
+Language is a system of arbitrary vocal symbols used for human communication.
+* phoneme
+:PROPERTIES:
+:ID:       aa149c8f-e5c6-48c9-8fa0-2b0de7e935e4
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764217351148
+:ANKI_NOTE_HASH: 6e29ae3ab2d05f658d98b9a10678a5ec
+:END:
+the smallest distinctive sound unit.
+* Syntax
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764217653296
+:ANKI_NOTE_HASH: 99a0f80a22dd21394589167e385f81d1
+:END:
+How words are combined to form sentences & the rules that govern the formation of sentences.
+* semantics
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       f82a23dc-2b09-4bbb-aa8d-1fe103491fe9
+:ANKI_NOTE_ID: 1764221302600
+:ANKI_NOTE_HASH: 53a11c064a8990af9b7b0378b531ff07
+:END:
+The study of meaning in language focusing on how words, phrases, and sentences convey meaning.
+* steps for development
+Humans: develop language skills in a predictable series of stages that are universal across culture.
+1. [[id:d2aba58a-295d-43ab-b56c-f5a189caf1aa][Cooing Stage]]
+2. [[id:1f149efd-93e1-472b-bfac-fc11f70992c1][Babbling Stage]]
+3. [[id:6cc54b94-b750-401d-b21b-5fcd7fc36b13][One-Ward Stage]]
+4. [[id:df472078-3839-45fc-8aa7-e5efae3636fb][Two-Word Stage]]
+5. [[id:4bb7364b-12a9-4769-8c41-e48c94c36c55][Full sentences]]
+* Cooing Stage
+:PROPERTIES:
+:ID:       d2aba58a-295d-43ab-b56c-f5a189caf1aa
+:END:
+Early stage of language development where infants produce repetitive, soft vowel sounds like "oo" and "ah", usually starting around two months of age.
+* Babbling Stage
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       1f149efd-93e1-472b-bfac-fc11f70992c1
+:ANKI_NOTE_ID: 1764222576987
+:ANKI_NOTE_HASH: 9f473eda3472157e75b25a8b01ac5109
+:END:
+Beginning at four months of age
++ infant spontaneously vocalizes repetitive consonant-vowel combinations like "ba-ba-ba" or "da-da-da".
++ 10 months : familiarize themselves with the sounds of their native language, perception of only native [[id:aa149c8f-e5c6-48c9-8fa0-2b0de7e935e4][phoneme]].
+* One-Ward Stage
+:PROPERTIES:
+:ID:       6cc54b94-b750-401d-b21b-5fcd7fc36b13
+:ROAM_ALIASES: Holophrase
+:END:
+Age one, child speaks mostly in single words
++ Whole idea can be expressed in one word "Go!", "Car", "kitty"
++ Child learned that sounds carry meanings.
+* Two-Word Stage
+:PROPERTIES:
+:ID:       df472078-3839-45fc-8aa7-e5efae3636fb
+:END:
+Age two, a child speaks mostly two-or-three word statements "Get Ball".
+** Telegraphics Speech
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764222576992
+:ANKI_NOTE_HASH: 21e65582e4c997d0f25c518c6e98bb1b
+:ID:       65c570bb-1f59-4adb-93f8-bf7d4d01603e
+:END:
+child will use mostly nouns and verbs
+** Overgeneralization
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764222576995
+:ANKI_NOTE_HASH: edb98eaa14916b605edadc3da2128b30
+:ID:       9bad158f-03a5-4a4d-8dc8-089d7b4e5993
+:END:
+The application of grammar rules in instances to which they do not apply.
+* Full sentences
+:PROPERTIES:
+:ID:       4bb7364b-12a9-4769-8c41-e48c94c36c55
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764222712324
+:ANKI_NOTE_HASH: d4134a3f8710a6823bbe3af840fad0a7
+:END:
+After 2 years old, children gradually speak in full sentences and master syllable stresss patterns to distinguish among words.
+* TODO Nonverbal Manual Gestures
+Children Gradually know same manual gestures by hand or
+* Critical Periods for Language
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       2aab4b79-8087-4f10-aa2b-f3f5236602af
+:ANKI_NOTE_ID: 1764222907548
+:ANKI_NOTE_HASH: 2c3dd043feadd94d2da0504d653454ef
+:END:
+There is a critical period for mastering certain aspects of [[id:44ba088e-0bf9-4e87-81c9-579fdef88cb2][language]].
++ By age 7 those who haven't been exposed to either spoked / signed language gradually lose their ability to master any [[id:438db15b-8ce7-4ee3-aaa5-81a34225f0a3][language]].

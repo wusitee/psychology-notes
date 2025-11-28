@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       0c54af16-07a7-4614-a897-ef835dc3a6bb
+:END:
+#+title: menopause
+#+filetags: :psychology:
+
+* menopause
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764138966065
+:ANKI_NOTE_HASH: 37609feaa2df0deea8bd786cf114a216
+:END:
+For women, reproductive organs begin functioning inconsistently, end of reproduction around the age 50.

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       a31cdc64-9d4c-4256-8c61-6192e8fef361
+:END:
+#+title: Fixed mindset & growth mindset
+#+filetags: :psychology:
+
+* fixed mindset & growth mindset
+The way we think about our intellect and talents not only affects the way we feel, it can also affect what we achieve
+** fixed mindset
+:PROPERTIES:
+:ID:       57b2f497-7add-473b-b446-07dd3c8c7eea
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762822921824
+:ANKI_NOTE_HASH: 7c751f81a37976a11ddad6ae806a6462
+:END:
+people believe that their intelligence is fixed and static.
+** growth mindset
+:PROPERTIES:
+:ID:       319762ee-bf9f-4478-ad5c-a2457150519a
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762822921832
+:ANKI_NOTE_HASH: 0a791d9e2a09ee60905875af6c58603e
+:END:
+people believe that [[id:1c03944d-0ee6-4bfd-8bca-9e382ff9d141][intelligence]] and talents can be improved through effect and learning.

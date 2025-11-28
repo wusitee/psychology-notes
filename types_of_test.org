@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       d8cebd4d-5c65-4538-82bb-c2bcbd522057
+:END:
+#+title: types of test
+#+filetags: :psychology:
+
+* Achievement test
+:PROPERTIES:
+:ID:       743217de-afda-4887-8ffa-27f236167ef4
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762823308098
+:ANKI_NOTE_HASH: e8905fd769e02f10de7801f1d8699c70
+:END:
+Assess knowledge or skills in a specific area, such as academic subjects or job-related tasks.
+* aptitude test
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762823308106
+:ANKI_NOTE_HASH: 8fb9a85eb58a78e2fe717384a1d250b4
+:END:
+designed to assess what a person is capable of doing or to predict what a person is able to learn or do, often used to assess academic potential or career suitability

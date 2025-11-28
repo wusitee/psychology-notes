@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       6d852ee9-5825-4a68-928c-9e64836a73b8
+:END:
+#+title: peg-word method
+#+filetags: :psychology:
+
+* peg-word method
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+a [[id:9018bf16-7faf-4622-bf63-71b109c73d24][mnemonic]] technique that uses a pre-memorized list of "peg" words to help memorize new information in order.

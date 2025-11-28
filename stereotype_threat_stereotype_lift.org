@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       e287d6f8-968f-4503-81f1-3577b6083d69
+:END:
+#+title: stereotype threat & stereotype lift
+#+filetags: :psychology:
+
+* stereotype threat
+:PROPERTIES:
+:ID:       dcd688e9-375f-4d19-ba9a-ef7b3b428040
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762823105450
+:ANKI_NOTE_HASH: 9f777e10fb83139a54b024a108a6cfb7
+:END:
+individuals underperform in situations where they feel at risk of confirming negative stereotypes about their group.
+* stereotype lift
+:PROPERTIES:
+:ID:       2ca27cdd-d6f5-48b0-a3c3-14b382dc47ec
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762823102224
+:ANKI_NOTE_HASH: af62de2e9a1a24acc54ad21ab6561216
+:END:
+The opposite of stereotype threat, occurs when people from stereotypically advantaged groups perform better on tests due to the positive expectations associated with their group.

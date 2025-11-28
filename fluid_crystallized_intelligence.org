@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       81aaf2ae-6153-4f0b-a661-dfc2d4f95e11
+:END:
+#+title: fluid & crystallized intelligence
+#+filetags: :psychology:
+
+* fluid intelligence
+:PROPERTIES:
+:ID:       f003dc8e-d279-417a-9314-6610df4ec973
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762820368077
+:ANKI_NOTE_HASH: ac876e5b4e02465d4b2a130055605c24
+:END:
+Fluid [[id:1c03944d-0ee6-4bfd-8bca-9e382ff9d141][intelligence]], refers to the ability to reason and think flexibly, tend to diminish with adult aging.
+* crystallized intelligence
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1762820404751
+:ANKI_NOTE_HASH: 516a755fa3fb6919a1ddc23e55c09785
+:END:
+** Text
+{{c1::Crystallized [[id:1c03944d-0ee6-4bfd-8bca-9e382ff9d141][intelligence]]}}, refers to the accumulation of knowledge, facts, and skills that are acquired throughout life, tend to increase with age.

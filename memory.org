@@ -13,3 +13,14 @@
 :END:
 The processes that allow us to record and later retrieve information
 + The persistence of learning over time through the *encoding, storage, and retrieval* of information.
+* biological basis for memory
++ [[id:af49ae14-3614-4a9e-80c0-6e3c0bb132bf][Hippocampus]]
+  + stores LTM
+  + [[id:268f517a-e42d-4f39-8687-5bed7ed74d93][explicit memory]] formation
+  + and spatial navigagtion
++ [[id:4fab3a2b-335a-4ccc-99ad-be4c899c35ce][cerebellum]]
+  + [[id:081e1bcd-690a-4818-bf2c-7c8e0b3c7e20][implicit memory]]
++ [[id:a868f216-9081-45a1-be3c-2426c63885e0][frontal lobe]]
+  + [[id:1d1a1658-02ee-4ffb-8f4d-de28c6e47ae7][short-term memory]]
++ [[id:5d817d05-96ad-4fc5-b895-700138ec30b9][amygdala]]
+  + emotion-related memory formation.

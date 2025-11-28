@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       93af5ec3-1842-4eeb-acf5-d3127d432dce
+:END:
+#+title: misinformation effect
+#+filetags: :psychology:
+
+* misinformation effect
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762748582572
+:ANKI_NOTE_HASH: b849f4c2883fcdf8ef35884e98ebcc09
+:END:
+misleading information we tend to misremember
++ happens when new, incorrect information influences how we remember past events.

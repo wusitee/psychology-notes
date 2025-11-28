@@ -27,8 +27,12 @@ ability to focus on a particular sound in noisy environment while partial filter
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1761612044509
 :ANKI_NOTE_HASH: fab294c3e8ddc9cbe53bd07d500c1d39
+:ID:       4cff91ee-c571-497b-8ec2-fe9a1c3452ab
 :END:
 failing to see sth.
 ** change blindness
+:PROPERTIES:
+:ID:       0d331a51-0c8b-43cf-aaca-4bd2b4111fb8
+:END:
 people's tendency to ignore changes in their visual environment when they occur in a region that is far away from their focus of attention
 + two-thirds of individuals giving directions failed to notice a change in the individual asking for directions

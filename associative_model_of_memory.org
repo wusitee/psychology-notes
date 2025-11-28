@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       0687aa78-1224-44e3-b78e-a62baa4990d2
+:END:
+#+title: associative model of memory
+#+filetags: :psychology:
+
+* associative model of memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762302935595
+:ANKI_NOTE_HASH: 5d6d3fdfaf4e5d1be86de6d7f273587c
+:END:
+A massive network of associated ideas and concepts
+* priming
+:PROPERTIES:
+:ID:       5fd376b6-ae2c-43b9-982d-0e3f2ee8a127
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762302935601
+:ANKI_NOTE_HASH: 2c845a57c1c83b630193fd15835b5ead
+:END:
+by activating some units of information, related or connected units also become active.
+* framing
+:PROPERTIES:
+:ID:       9dbc26c7-d356-4b1a-986e-2fa6b1f9ca36
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763451487696
+:ANKI_NOTE_HASH: fa65500748ef11087b17d898611c4384
+:END:
+a psychological phenomenon where people's decisions and perceptions are influenced by the way information is presented, even if the core facts are identical

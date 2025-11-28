@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       42779cd0-1cae-434e-ade7-9838abd82719
+:END:
+#+title: cognitive development
+#+filetags: :psychology:
+
+* cognitive development
+All the mental activities associated with thinking, knowing, remembering, and communicating.

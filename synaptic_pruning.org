@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       61bc639d-07ec-4c4d-8bc4-0306fb49de6e
+:END:
+#+title: synaptic pruning
+#+filetags: :psychology:
+
+* synaptic pruning
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764138761664
+:ANKI_NOTE_HASH: 9463c299eacbe9de18933c657b43af78
+:END:
+During [[id:c98ddb80-34d3-4c48-a507-e12c9d97648f][puberty]], the brain stops automatically adding new connections, and becomes more efficient by "rewiring".
++ Selective removal of unnecessary neurons and connections to improve brain efficiency.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       b80888ba-9c84-4ff3-99d3-e6411ddcfe67
+:END:
+#+title: reflex
+#+filetags: :psychology:
+
+* reflex
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+Reflexes are automatic and involuntary responses to stimuli that help protect our bodies from harm or maintain balance.

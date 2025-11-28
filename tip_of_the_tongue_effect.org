@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       bb2278c8-024e-4fe7-8da2-719ba839e00a
+:END:
+#+title: tip-of-the-tongue effect
+#+filetags: :psychology:
+
+* tip-of-the-tongue effect
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762964035478
+:ANKI_NOTE_HASH: 5aa7fe73bfa5b2d0f3de38784ef8264b
+:END:
+phenomenon of failing to [[id:95b6c21c-b230-4395-b01d-fc619b7f14be][retrieve]] a word or term from memory, combined with partial recall and the feeling that retrieval is imminent..

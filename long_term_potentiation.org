@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c35d98d3-bf52-43d1-b724-c5e3fe5424c0
+:ROAM_ALIASES: LTP
+:END:
+#+title: long-term potentiation
+#+filetags: :psychology:
+
+* long-term potentiation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762302179198
+:ANKI_NOTE_HASH: 400342f8032a4aca7441b3a507ebc0ab
+:END:
+Experience can modify the brain's neural networks and persistently strengthen the [[id:3309d45b-a8ba-44d6-800e-347eb26310c6][synaptic]] connection when the synapse of one neuron repeatedly fires and excites another neuron.
++ transfer of information from [[id:1d1a1658-02ee-4ffb-8f4d-de28c6e47ae7][STM]] to [[id:30e3c231-4201-47ed-8dea-d3a7c025c64b][LTM]]

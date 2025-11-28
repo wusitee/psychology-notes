@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       58324488-945f-43f7-9dd6-e673b232f084
+:END:
+#+title: forgetting curve
+#+filetags: :psychology:
+
+* forgetting curve
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762497483385
+:ANKI_NOTE_HASH: 7c6d7d784188db1ef379223976d30bee
+:END:
+The exponential loss of information shorty after learning it.
++ /Research has found that around 70% of information is forgotten with 24 hours of initial learning./

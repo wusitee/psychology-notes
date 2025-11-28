@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       0da1617c-d4ff-400d-b544-e6600e858b55
+:END:
+#+title: retroative interference
+#+filetags: :psychology:
+
+* retroative interference
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762820208825
+:ANKI_NOTE_HASH: b92495a607d9011ac5757d3207a36a74
+:END:
+Newever memories interfere with the retrieval of older memories
++ learning new thing can make the [[id:95b6c21c-b230-4395-b01d-fc619b7f14be][retrieval]] of old memories harder.

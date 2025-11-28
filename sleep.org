@@ -53,12 +53,13 @@ slow-wave sleep begin to appear after about 30 minutes of sleep
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1760424512927
-:ANKI_NOTE_HASH: 0a4a150b3b437e65efd2a6067a29bf28
+:ANKI_NOTE_HASH: 9ea4418f7944d298da1ab24da3bfc685
 :ID:       b96ba7aa-7f0c-4449-b358-a1f6c90237ec
 :END:
 transition period between wakefulness and [[id:8d4cc5a9-20bb-4d80-821d-34fb3fd83153][sleep]] drifting in & out of sleep (Lasting up to 5-10 mins)
 + Brain waves slow down, muscles relax, and we any experience sudden muscle contractions known as *hypnic jerks*.
 + people can be easily woken
++ hypnagogic hallucinations.
 * sleep spindle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
@@ -116,7 +117,7 @@ A sleep disorder in which you physically act out vivid, often unpleasant dreams 
 :ANKI_NOTE_TYPE: Basic
 :ID:       93b86612-d10a-4f72-9e54-a1da3a569803
 :ANKI_NOTE_ID: 1760427172453
-:ANKI_NOTE_HASH: b35ce2d63b1db14bf564d88be919b6da
+:ANKI_NOTE_HASH: 641a87a0d6d8019a77182adc6858a63f
 :END:
 The inability to get to sleep, stay asleep, or get a good quality of sleep
 + most people with insomnia spend more than 20 to 30 minutes falling asleep or getting back to sleep at night.

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       53ead44c-5c56-4374-a72e-c97a15e2052a
+:END:
+#+title: motor development
+#+filetags: :psychology:
+
+* from gross to fine motor coordination
+Through daily play and movement, babies and toddlers begin to develop fundamental motor skills
++ Gross motor skills (big movements like crawling, walking, and jumping)
++ fine motor skills (smaller actions, like grasping and picking up tiny objects)

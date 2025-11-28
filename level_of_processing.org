@@ -39,3 +39,4 @@ From shallow to deep.
 :END:
 semantic encoding occurs when we attach meaning to information and create associations between the new memory and existing memories
 + make remembering information easier, and retention longer.
++ [[id:f82a23dc-2b09-4bbb-aa8d-1fe103491fe9][semantics]]

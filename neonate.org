@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       fb0b5244-e434-42d9-af3e-746bb10e5ccd
+:END:
+#+title: neonate
+#+filetags: :psychology:
+
+* neonate
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763944531770
+:ANKI_NOTE_HASH: 96e1daa562723c1f41528980bae2d4c3
+:END:
+Born preferring sights and sound that facilitate social responsiveness
++ Neonates turn their heads in the direction of human voices, gaze longer at a drwaing of a facelike image than at a bull's-eye pattern
++ visual cliff experiment demonstrates an early ability in infants to perceive depth.

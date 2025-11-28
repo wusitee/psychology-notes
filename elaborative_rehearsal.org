@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       b4dddb87-6393-4375-b8d4-0c5134038cec
+:END:
+#+title: elaborative rehearsal
+#+filetags: :psychology:
+
+* elaborative rehearsal
+Uses different encoding strategies to link new information with information you already know, which needs deep and effortful processing.

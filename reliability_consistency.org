@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c89d6b40-0cad-496d-9f9d-ff78beb7c6a6
+:END:
+#+title: reliability
+#+filetags: :psychology:
+
+* reliability
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762823543500
+:ANKI_NOTE_HASH: 34c388adb3744aadab10f7be852a0130
+:END:
+The tendency of a test to produce the same scores again and again each time it is given to the same people.
+* test-retest reliability
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762823660848
+:ANKI_NOTE_HASH: 0a25d2c75496426a194fe92e7ddf0140
+:END:
+assesses consistency by administering the same test to the same group twice
+* split-half reliability
+Divides a test into two halves and compares scores between them. It measures internal consistency by checking if both havles yield similar results.

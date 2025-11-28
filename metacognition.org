@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c48f20c1-56ad-4f44-9476-7d9f26b32cce
+:END:
+#+title: metacognition
+#+filetags: :psychology:
+
+* metacognition
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762948830283
+:ANKI_NOTE_HASH: 5cb1f1132e4a5c855b51e3c298700641
+:END:
+the awareness and understanding of one's own thought processes, often described as "thinking about thinking".
++ one retrieval practice process to help memory.

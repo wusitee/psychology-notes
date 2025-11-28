@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c259636c-89ef-434b-a6b8-48696aa00f51
+:END:
+#+title: sex & gender
+#+filetags: :psychology:
+
+* sex
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764139112040
+:ANKI_NOTE_HASH: 2f96b5733571112311a34873b1f76dec
+:ID:       7485aaa4-e4df-4911-a4dc-c8ba726f7050
+:END:
+The biological status of being male or female or intersex
++ Sex chromosomes contain the genes that determine our biological sex. In humans and most other mammals, sex chromosomes occur in pair. An X/Y chromosome pair results in a male, and an X/X pair results in a female.
+* gender
+ :PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764139160090
+:ANKI_NOTE_HASH: 6fdd47b5f0f91995efc5d9e1bc365c43
+:ID:       6a182a53-a800-41ee-a656-a928b1199fba
+:END:
+the sociocultural dimension of being biologically male or female.

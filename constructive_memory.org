@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       b247e4fb-2e98-4182-b504-073e889d19b6
+:END:
+#+title: constructive memory
+#+filetags: :psychology:
+
+* constructive memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762754392116
+:ANKI_NOTE_HASH: d3cb7f3d0e5321c1c845cb27f8ff0df1
+:END:
+the process by whcih memories are not merely retrieved but actively constructed

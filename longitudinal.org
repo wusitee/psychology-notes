@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       246fe080-e56d-4c86-8ae9-bafffda4d14f
+:END:
+#+title: longitudinal study
+#+filetags: :psychology:
+
+* longitudinal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763943463477
+:ANKI_NOTE_HASH: d0fb4f60398f53c88ca5336cae7808f8
+:END:
+Study follows the same group of people over a period of time from months to many years in order to evaluate changes in those individuals.
++ data is collected repeatedly over time
++ insights into development
++ time-consuming, expensive
++ aging studies

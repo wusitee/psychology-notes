@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       9299e3d8-86c1-4d57-95ef-5c9ed72a563a
+:END:
+#+title: cross sectional study
+#+filetags: :psychology:
+
+* cross sectional
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763943308303
+:ANKI_NOTE_HASH: 2077d9ae7d66844b5e29b237d604fbbc
+:END:
+the type of study in which people of different ages are examined at the same time(s).

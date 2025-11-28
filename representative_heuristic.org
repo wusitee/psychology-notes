@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       1cb2dcf6-f9e5-4f92-9043-c29472c7c63e
+:END:
+#+title: representative heuristic
+#+filetags: :psychology:
+
+* representative heuristic
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763463321401
+:ANKI_NOTE_HASH: b9e79f330beb63ee9c6103a46c72ad1f
+:END:
+The representativeness heuristic involves estimating the likelihood of an event by comparing it to an existing prototype that already exists in our minds

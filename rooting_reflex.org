@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       67e24b47-22ef-49bb-811b-e8c7ae186616
+:END:
+#+title: rooting reflex
+#+filetags: :psychology:
+
+* rooting [[id:b80888ba-9c84-4ff3-99d3-e6411ddcfe67][reflex]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763946196310
+:ANKI_NOTE_HASH: 667836be436f19b26d6462d452cb09aa
+:END:
+when the infant's cheek or side of mouth is stroked the head will turn towards it, and the infant's mouth will open in an attempt to suck.

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       1d571860-e694-4d83-8a98-dc1ec600e76b
+:END:
+#+title: maintenance rehearsal
+#+filetags: :psychology:
+
+* maintenance rehearsal
+the process of repeating information over and over to keep it in your [[id:1d1a1658-02ee-4ffb-8f4d-de28c6e47ae7][short-term]] or [[id:fc9852ca-2a2e-4e22-999d-39ec4706228a][working]] memory.

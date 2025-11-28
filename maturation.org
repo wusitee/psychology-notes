@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       805c4fbc-fcb9-4d3b-b541-a5853a259874
+:END:
+#+title: maturation
+#+filetags: :psychology:
+
+* maturation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763946326957
+:ANKI_NOTE_HASH: 7b5240db1c4741ef0b7e8b38219fc196
+:END:
+Biological growth processes that enable orderly changes in behavior, relatively uninfluenced by experience
++ maturation sets the basic course of development; experience adjust it.

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       d61be326-8b26-4f78-861d-6ceff82fcab6
+:END:
+#+title: standardization
+#+filetags: :psychology:
+
+* standardization
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762823400124
+:ANKI_NOTE_HASH: 90265963fbdd72e4e5a1b923631d33f9
+:END:
+The process of establishing consistent testing procedures and norms ofr administering assessments.
++ It allows to make meaningful comparison.

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c98ddb80-34d3-4c48-a507-e12c9d97648f
+:END:
+#+title: puberty
+#+filetags: :psychology:
+
+* puberty
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763947009038
+:ANKI_NOTE_HASH: eca5a695c9b187ac3b538c7ffb0d2ca4
+:END:
+the period of sexual maturation, during which a person becomes capable of reproducing.
+* adolescent growth spurt
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763947009046
+:ANKI_NOTE_HASH: d171a4714e4b2a3de99c46f075330def
+:ID:       4c4aea3d-3e68-49bd-9520-7952c85c0d8d
+:END:
+a rapid increase in height and weight that typically occurs during puberty, driven by hormonal changes and marking the transition from childhood to adulthood.
+* occurring earlier than ever before
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763947272785
+:ANKI_NOTE_HASH: b5fd60719d44d3cf40ef928c8b9d2ac9
+:END:
+environmental factors can influence the onset and duration of puberty.

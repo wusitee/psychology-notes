@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       63d2ab0a-440b-4ee7-b96b-971f49c1be63
+:END:
+#+title: jean piaget
+#+filetags: :psychology:
+
+* Jean Piaget
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764138525395
+:ANKI_NOTE_HASH: f5ed92d1eb80e3bdb50defcd9804be78
+:END:
+Focus on differences in thinking between adults and children. Piaget showed that young children think in strikingly different ways compared to adults.
++ [[id:76c37de1-6cb7-477b-9833-bc01af930d49][stages in cognitive development]]
+* alternative to piaget - lev vygotsky
+:PROPERTIES:
+:ID:       0dac4b3f-ee78-449e-be96-917bbb07055f
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764142291149
+:ANKI_NOTE_HASH: fb90223948a3b5bcb4435f5a642321a4
+:END:
+Russian developmental psychologist, developed a theory of how the child's mind grows through interaction with social environment.
+** Zone of Proximal Development
+:PROPERTIES:
+:ID:       cd67c494-1c55-4d66-91ba-6387cd94ad43
+:ANKI_NOTE_TYPE: Basic
+:ROAM_ALIASES: ZPD
+:ANKI_NOTE_ID: 1764142621028
+:ANKI_NOTE_HASH: 20a41a9eb4d4b66d585b14d4ca6a25ed
+:END:
+Range between the level at which a child can solve a problem working along with difficulty, and the level at which a child can solve a problem with the assistance of adults or more-skilled children
+*** Scaffolding
+:PROPERTIES:
+:ID:       fa711f89-173a-4945-b4c5-3ba145bfbc57
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764142621032
+:ANKI_NOTE_HASH: b70996a51b7e521b005374ef869df6ca
+:END:
+  A frame work that offers children temporary support as they develop higher levels of thinking.

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       65ea1f84-ae4f-454d-a91c-e5f2db274231
+:END:
+#+title: recall & recognition
+#+filetags: :psychology:
+
+* recall
+:PROPERTIES:
+:ID:       7e662fde-47f6-46a3-9dc3-af2abd5eb1be
+:END:
+involves accessing information without the aid of cues retrieve information from memory
+* recognition
+:PROPERTIES:
+:ID:       f03463bf-9a7b-40c2-bfc2-04a14cf6c691
+:END:
+involves identifying information when it is presented. Matching new information with stored knowledge (recognizing the correct answer on an MCQ).

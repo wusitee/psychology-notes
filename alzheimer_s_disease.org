@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       dd8534c0-7e81-4dfb-8118-c909932e18bf
+:END:
+#+title: alzheimer's disease
+#+filetags: :psychology:
+
+* alzheimer's disease
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762748379724
+:ANKI_NOTE_HASH: fb5d349943ad51b84db1f84e8aa085a8
+:END:
+progressive neurological disorder with memory loss, cognitive decline, and behavioral changes

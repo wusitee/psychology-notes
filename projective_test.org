@@ -6,4 +6,9 @@
 #+filetags: :psychology:
 
 * projective test
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762496348269
+:ANKI_NOTE_HASH: 3cbcf080df07c2c0bbafc74c841c82c1
+:END:
 a psychological test in which words, images, or situations are presented to a person and the responses analysed for unconscious expression of elements of personality that they reveal.

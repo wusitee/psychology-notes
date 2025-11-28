@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       89708576-40e9-4937-b29f-14004a5af95d
+:END:
+#+title: source amnesia
+#+filetags: :psychology:
+
+* source [[id:7e968c85-e8b4-4cdb-bfbe-83794dfa4c0a][amnesia]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762754482313
+:ANKI_NOTE_HASH: f64e6f92af997f4c36809899b4395872
+:END:
+The inability to remember where, when, who, or how certain information was learned or acquired while retaining the factual knowledge.

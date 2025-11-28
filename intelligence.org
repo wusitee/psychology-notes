@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       1c03944d-0ee6-4bfd-8bca-9e382ff9d141
+:END:
+#+title: intelligence
+#+filetags: :psychology:
+
+* intelligence
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762819705784
+:ANKI_NOTE_HASH: 268012e96741282ce18544bb793fbbb7
+:END:
+The ability to learn from experience, solve problems, and use knowledge to adapt to new situation.
++ There is not standard definition of what exactly constitutes intelligence and it can be subject to [[id:20fb0421-e5e7-4f38-a0f7-232d952f70a2][bias]].

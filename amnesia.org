@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       7e968c85-e8b4-4cdb-bfbe-83794dfa4c0a
+:END:
+#+title: amnesia
+#+filetags: :psychology:
+
+* amnesia
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762747609929
+:ANKI_NOTE_HASH: fdd365368d6e72523a70ecaa507a4c2f
+:END:
+Occurs when a person experiences the *full or partial loss of memory*, injury or trauma can create problems with various brain functions.
++ Divided into [[id:a230c05e-ca79-4874-bdc6-1e3fdafeb3ff][retrograde amnesia]], [[id:1a2c7fc9-f73a-414b-9d6c-4fcaa0204566][anterograde one]], and [[id:fdd39834-ed05-4b73-88c3-11e51703e959][infantile amnesia]].

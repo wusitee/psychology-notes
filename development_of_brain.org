@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c4d76c32-535d-458e-b156-d3dd114dbb43
+:END:
+#+title: development of brain
+#+filetags: :psychology:
+
+* development of brain
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764138710815
+:ANKI_NOTE_HASH: 7c6cc953bf048470682a6701fa7ccec3
+:END:
+The prefrontal cortex matures much later than the [[id:5d817d05-96ad-4fc5-b895-700138ec30b9][amygdala]] (around age 18 to 25 or later)

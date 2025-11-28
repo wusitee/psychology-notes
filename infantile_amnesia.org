@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       fdd39834-ed05-4b73-88c3-11e51703e959
+:END:
+#+title: infantile amnesia
+#+filetags: :psychology:
+
+* infantile [[id:7e968c85-e8b4-4cdb-bfbe-83794dfa4c0a][amnesia]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762948581350
+:ANKI_NOTE_HASH: 3cfb6fc244222f9877a8ab49d9efe0dc
+:END:
+the inability to recall [[id:1ba01395-ab42-4ae7-a350-a1c8e93f4621][autobiographical]] memories from early childhood, typically before the age of 3-4.

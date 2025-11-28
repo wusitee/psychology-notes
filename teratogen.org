@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c17a2d23-1644-4fda-bca3-03504cde24f8
+:END:
+#+title: Teratogen
+#+filetags: :psychology:
+
+* alcohol
+:PROPERTIES:
+:ID:       c29bda02-73bd-40dc-846f-f84077698cbb
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763944299864
+:ANKI_NOTE_HASH: 95cc4b74d984dff4ed64056c84623643
+:END:
+alcohol use during pregnancy has been found to be the leading preventable cause of mental disabilities in children (Fetal Alochol Syndrome).
+* illegal drugs
+:PROPERTIES:
+:ID:       9fbc340d-39ba-44b8-a3c8-30db3a306b2b
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763944299871
+:ANKI_NOTE_HASH: 163afce01b5f825384d1e491c8d270a4
+:END:
+babies can be born addicted, causing a higher risk of sudden infant death, born prematurely, have low birth weight, and experience other physical defects.

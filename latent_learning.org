@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       c6620adb-87b0-4c8d-9399-663ec03dfb63
+:END:
+#+title: latent learning
+#+filetags: :psychology:
+
+* latent learning
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762950215785
+:ANKI_NOTE_HASH: 31eecea350f42e151ef233ae39390479
+:END:
+the acquisition of knowledge or skills that is not immediately demonstrated through behavior but can be recalled and used later when a motivation or cue is present.

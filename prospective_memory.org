@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       371525e5-7e60-4d77-932a-80444136819e
+:END:
+#+title: prospective memory
+#+filetags: :psychology:
+
+* prospective memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762304520988
+:ANKI_NOTE_HASH: a5b0ca768c9985cb8eced5405497891e
+:END:
+The ability to remember to carry out intended actions in the future.

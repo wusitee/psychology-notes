@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       5b3e17e4-7016-4679-86de-7767e050f703
+:END:
+#+title: general intelligence
+#+filetags: :psychology:
+
+* general intelligence
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762820090853
+:ANKI_NOTE_HASH: a540b578b46075a126e2b388edf3c9f8
+:END:
+Intelligence is a general cognitive ability that can be measured and numerically expressed.

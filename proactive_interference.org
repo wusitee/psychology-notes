@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       ae14724e-59d2-4409-9b7f-978374d89550
+:END:
+#+title: proactive interference
+#+filetags: :psychology:
+
+* proactive interference
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762948740610
+:ANKI_NOTE_HASH: a8849ea04f1ff33ebbf4f70ecae9a4a2
+:END:
+a psychological phenomenon where old information from [[id:30e3c231-4201-47ed-8dea-d3a7c025c64b][long-term]] memory interferes with the ability to learn or recall new information.
++ opposite to [[id:0da1617c-d4ff-400d-b544-e6600e858b55][retroative interference]].

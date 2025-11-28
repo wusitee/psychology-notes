@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       8f5a26b4-b462-46e5-80ac-a3177d8615c2
+:END:
+#+title: self-reference effect
+#+filetags: :psychology:
+
+* self-reference effect
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762992597830
+:ANKI_NOTE_HASH: 99ae00e0231a2fecf27cbbc0655cb237
+:END:
+the phenomenon where individuals have better memory for information that relates to themselves.

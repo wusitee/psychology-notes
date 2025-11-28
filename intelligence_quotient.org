@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       b4d2f128-cef8-4c77-8e20-39ddfafc6118
+:ROAM_ALIASES: IQ
+:END:
+#+title: intelligence quotient
+#+filetags: :psychology:
+
+* intelligence quotient
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762821387851
+:ANKI_NOTE_HASH: 4ccbeab887e3faa9201ab2562ec2a355
+:END:
+Numerical measure of an child's cognitive abilities compared to others in their age group, typically assessed through standardized tests.
+* Flynn effect
+:PROPERTIES:
+:ID:       7e0e7f85-7161-41d9-af5a-10a8b07e5bcb
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762821885927
+:ANKI_NOTE_HASH: 2d2a28c8a2823d314105c8a85d676076
+:END:
+IQ scores have been *rising worldwide*
++ due to the Flynn effect, IQ test scoring must occasionally be reworked in order to "reset" the average score to 100.
+* intelligence test scores
+:PROPERTIES:
+:ID:       7461c3ca-5da2-452e-bdf6-87959189fd07
+:END:
+Most [[id:b4d2f128-cef8-4c77-8e20-39ddfafc6118][IQ]] tests are [[id:07c8cf18-c7ce-4d34-881a-dce9a7d1b9ee][normally]] distributed.
++ Mental retardation: score two or more standard deviations below the norm on a traditional IQ test
++ intellectually gifted: mroe than 130.

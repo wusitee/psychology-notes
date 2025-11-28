@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       88cb6c3c-13b6-4df9-918e-bced39134783
+:END:
+#+title: assimilation
+#+filetags: :psychology:
+
+* assimilation
++ stay same (fit in the exisiting schema)

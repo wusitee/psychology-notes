@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       02572615-9dc4-4f4a-84e9-443b71f94199
+:END:
+#+title: serial position effect
+#+filetags: :psychology:
+
+* serial position effect
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762949925708
+:ANKI_NOTE_HASH: 1d91094479722c0ae9cdb070e4d2e29f
+:END:
+When we try to retrieve a long list of words we usually recall the last words and first words best. forgetting the words in the middle
+** Primarcy effect
+:PROPERTIES:
+:ID:       7ebd236f-4189-4402-8f74-d30d260777fb
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762498078038
+:ANKI_NOTE_HASH: 930666590d280ccff8131d95039f2440
+:END:
+refers to better recall of the first items from greater rehearsal
+** Recency effect
+:PROPERTIES:
+:ID:       9643d557-8255-4a9e-85d5-f0d9b4f2ddf6
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762498078045
+:ANKI_NOTE_HASH: 4e2d8a8da1ce13b9993bc8ff2e21aa36
+:END:
+refers to better recall of the last items still in working memory.

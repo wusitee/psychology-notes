@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       4a6f31dc-3344-47a5-92a1-406bbabaf317
+:END:
+#+title: developmental psychology
+#+filetags: :psychology:
+
+* developmental psychology
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1763942986183
+:ANKI_NOTE_HASH: 718fe1da9ce507f91b0060869ac2d1e9
+:END:
+The scientific study of the changes that occur in people as they age including physical, cognitive, and social development.
++ Quick, cost-effective
++ public health surveys

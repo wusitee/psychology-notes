@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       d1e87760-2029-4db4-9e68-a68d058ed660
+:END:
+#+title: validity
+#+filetags: :psychology:
+
+* validity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762823908251
+:ANKI_NOTE_HASH: e3dc08a4023babd012950e27f15c6ea4
+:END:
+The degree in which a test actually measures what it's supposed measure.
+* construct validity
+:PROPERTIES:
+:ID:       4ac7388a-b4bb-4e42-a67e-099b91d09370
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762823914777
+:ANKI_NOTE_HASH: 996a9c7d28e57cc6082d6ad76a1bb102
+:END:
+Refers to whether a test accurately measures the concept or psychological trait it claims to measure.
++ whether have appropriate content
+* predictive validity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762824000399
+:ANKI_NOTE_HASH: 629e618dfd280f76e1427bc256342b4d
+:ID:       9e77acf1-125a-4308-acc3-58bf2795977f
+:END:
+refers to whether the results of a test can effectively predict future behavior or performance.

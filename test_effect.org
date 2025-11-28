@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       27926035-c7f2-48c8-9325-43ff05e99366
+:END:
+#+title: test effect
+#+filetags: :psychology:
+
+* test effect
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762965137430
+:ANKI_NOTE_HASH: b01cdf1df41653986cc33f7aa9c66f5b
+:END:
+the psychological phenomenon where [[id:95b6c21c-b230-4395-b01d-fc619b7f14be][retrieving]] information from [[id:1d1a1658-02ee-4ffb-8f4d-de28c6e47ae7][memory]] during a test improves long-term retention more than simply restudying the material.

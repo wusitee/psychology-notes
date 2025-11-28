@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       843a0017-48c2-4b65-a2e0-c489e91ab760
+:END:
+#+title: cued recall
+#+filetags: :psychology:
+
+* cued recall
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762965295091
+:ANKI_NOTE_HASH: c76c9754c9b42aa9f521d0cb88f31682
+:END:
+a [[id:a81d12e3-6b2d-44c3-8d57-b34b9756984d][memory]] [[id:95b6c21c-b230-4395-b01d-fc619b7f14be][retrieval]] method where you access stored information by using prompts or retrieval cues.

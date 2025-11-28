@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       b800fc96-7ba4-4c55-b237-8926e6f905c8
+:END:
+#+title: editic imagry
+#+filetags: :psychology:
+
+* editic imagry
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762949450137
+:ANKI_NOTE_HASH: 949019359c211e2a51fa360eb26f32f7
+:END:
+the ability to form a vivid, clear mental image of something that is not physically present, often appearing like a "mental photograph" that can be "seen" for seconds to minutes after it has been viewed.

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       081e1bcd-690a-4818-bf2c-7c8e0b3c7e20
+:END:
+#+title: implicit memory
+#+filetags: :psychology:
+
+* implicit memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762304251456
+:ANKI_NOTE_HASH: 374bdbc0568978d2fdb965d80f74f228
+:END:
+This type of memory does not require conscious thought and is crucial for performing everyday tasks automatically.

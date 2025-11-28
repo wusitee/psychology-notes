@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       1a2c7fc9-f73a-414b-9d6c-4fcaa0204566
+:END:
+#+title: anterograde amnesia
+#+filetags: :psychology:
+
+* anterograde amnesia
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762747884146
+:ANKI_NOTE_HASH: 10ef60e4bc74fd6ad04117b6289fcdbc
+:END:
+Condition in which a person is unable to crate new memories after an [[id:7e968c85-e8b4-4cdb-bfbe-83794dfa4c0a][amnesia]]-inducing event
++ Older memories, formed before the amnesia, are usually preserved
++ Case study of H.M.

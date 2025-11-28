@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       4fbb6980-6ad7-4929-a778-7aa70466587e
+:END:
+#+title: ecological systems theory
+#+filetags: :psychology:
+
+* Microsystem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       11b26d43-62d2-4946-ba7d-d72fbedc39e6
+:ANKI_NOTE_ID: 1764288398664
+:ANKI_NOTE_HASH: a8d26eec5b6ef1c872caf324267f3939
+:END:
+The immediate environment that directly interacts with the individual (e.g. family, peers, teachers).
+* Mesosystem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       6eddb7d2-7a02-4f24-bd5a-cfb35cdb6f70
+:ANKI_NOTE_ID: 1764288500227
+:ANKI_NOTE_HASH: c6303ddabf9463ea069d528fa20ccce5
+:END:
+The connections and interactions between [[id:11b26d43-62d2-4946-ba7d-d72fbedc39e6][microsystem]]s (e.g. the relationship between a child's parents and teachers).
+* Exosystem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       d52b8ce0-877b-485e-a9ce-e5b8e91d50ed
+:ANKI_NOTE_ID: 1764288500244
+:ANKI_NOTE_HASH: b2de47c64f06c248d2b8202dc86b89d0
+:END:
+External environments that indirectly affect the individual (e.g. a parent's workplace or community services)
+* Marcosystem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       e3d89c6c-597b-4770-ad30-d2e7f6bf6b1b
+:ANKI_NOTE_ID: 1764288500247
+:ANKI_NOTE_HASH: 95c537756164f476e0fdb702f7ab59e2
+:END:
+Broader societal and cultural influences, such as cultural values, economic conditions, or government policies.
+* Chronosystem
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764288574352
+:ANKI_NOTE_HASH: 64f9de225b5c2b8ec166fc32e3162324
+:END:
+Changes over time, including life transitions or hisotrical events, that impact the individual.

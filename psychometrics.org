@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       69704d55-ec28-486e-98cf-979dc70ce6f3
+:END:
+#+title: psychometrics
+#+filetags: :psychology:
+
+* psychometrics
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762821318476
+:ANKI_NOTE_HASH: aa8fe198a0e9d12cc119ef9f48d8fe4a
+:END:
+Focus on methods for acquiring and analyzing psychological data

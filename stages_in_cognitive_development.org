@@ -1,0 +1,91 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       76c37de1-6cb7-477b-9833-bc01af930d49
+:END:
+#+title: stages in cognitive development
+#+filetags: :psychology:
+
+* Sensorimoter Stage
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764139686516
+:ANKI_NOTE_HASH: d54cfec94b0cfece25e2899e56fef257
+:ID:       255b38d3-36c7-4599-8533-f57a33544020
+:END:
+Birth to age 2, Infants use their senses and motor abilities to learn about the world around time (looking, hearing, touching, mounting, and grasping).
+** Object Permanence
+:PROPERTIES:
+:ID:       fdefe3e6-17ee-452c-81f9-b77f5965231b
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764139734794
+:ANKI_NOTE_HASH: d46ae59fa3440e8063b723410a3203e9
+:END:
+A child's ability to understand that objects still exist after they are no longer in sight.
++ Infants 8 or 10 months younger tend not to have this ability.
+* Preoperational Stage
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764139901965
+:ANKI_NOTE_HASH: 2654bddeda3279aa8cec34270b1499da
+:END:
+The stage (2 to 6 or 7) during which a child learns to use symbolic thinking (due to language) and engage in pretend play
++ But does not yet comprehend the mental operations of concrete logic
+** Animism
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764140051731
+:ANKI_NOTE_HASH: 209e4eb1004ddd4c8519a035911f61d9
+:ID:       167640e2-e411-45e1-9bd9-739e949087a7
+:END:
+The belief that everything is alive, and has feelings, thoughts, and have the mental characteristics and qualities of living things "They are just like me, they can feel tired or sad"
+** Egocentrism
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764140175625
+:ANKI_NOTE_HASH: a00e340a36f34c1e788754fa9f06c886
+:ID:       966f9246-6183-4745-b93a-a5d855c61007
+:END:
+Inability on the part of child in the preoperational stage of development to see any point of view other than their own.
++ three mountain task [[id:e703e90e-6ef1-463c-a7d0-bcb0c15fec55][experiment]] is the evidence.
+** irreversibility
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764141454003
+:ANKI_NOTE_HASH: 14f758c69ef3b74d5eb693c9dd9dfcb1
+:ID:       7412fd2a-5942-440e-af9c-8a1fa303250a
+:ROAM_ALIASES: "lact of conversion"
+:END:
+Inability to envision reversing and action. Preoperational children can't mentally "undo" something
+* Concrete Operational Stage
+From about 6/7 to 11 years of age
++ children can generally correct the cognitive errors made in the peroperational stage
++ understand the world in logical, realistic and straightforward ways.
+** Reversibility
+:PROPERTIES:
+:ID:       25f86f5d-1cec-46e6-bc20-26249db817c5
+:ROAM_ALIASES: conservation
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764141595042
+:ANKI_NOTE_HASH: 44f4327e67307845018bc0edf23ed68e
+:END:
+the ability to recognize that numbers or objects can be changed and returned to their original condition.
++ this ability in turn leads to a  decline in egocentrism and gradual mastery of conservation as it applies to liquid, mass, number, volume, area and length.
+** Theory of Mind
+:PROPERTIES:
+:ID:       d985349c-59b4-41a1-9de1-6dfec680ad88
+:ROAM_ALIASES: ToM
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764141728240
+:ANKI_NOTE_HASH: bf33f01c6cea395959e39190b2e61fde
+:END:
+children begin to develop a theory of mind during this stage.
++ Recognize that other people's thoughts and beliefs may differ from yours.
+* Formal Operational Stage
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764142033613
+:ANKI_NOTE_HASH: 29db58d95fe8d1cd3065b506ff4c6998
+:ID:       7290c111-9b26-4c67-b875-8f0be8c08bfc
+:END:
+The stage of cognitive development (normally beginning about age 12) during which people begin to think logically about abstract concepts.
++ our reasoning expands from the purely concrete (involving actual experience) to encompass abstract and pypothetical thinking (involving imagined realities and symbols).

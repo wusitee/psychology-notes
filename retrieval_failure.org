@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       cf0e674d-a06f-4548-b395-76325aacd9f7
+:END:
+#+title: retrieval failure
+#+filetags: :psychology:
+
+* [[id:95b6c21c-b230-4395-b01d-fc619b7f14be][retrieval]] failure
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762498219162
+:ANKI_NOTE_HASH: 69e7cdf6c9ae6cb77828ca27f91b76cc
+:END:
+The failure to recall a memory due to missing stimuli or cues that were present at the time the memory was [[id:0f751f3d-608b-4394-9f09-81158927cf1b][encoded]] to help trigger the memory.
+* encoding failure
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       6572e7e1-8836-4dc7-b412-6fbfc8b95826
+:ANKI_NOTE_ID: 1762498365928
+:ANKI_NOTE_HASH: 04508cfaed607f4f385d2f608a08aca4
+:END:
+Occurs when a memory was never formed in the first place (without [[id:0f751f3d-608b-4394-9f09-81158927cf1b][encoding]]).

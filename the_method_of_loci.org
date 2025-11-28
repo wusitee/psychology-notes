@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       db459ed6-5b38-4eeb-a016-9b601d0d6d39
+:END:
+#+title: the method of loci
+#+filetags: :psychology:
+
+* the method of loci
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762949557169
+:ANKI_NOTE_HASH: e738faffb5251086859b239ddb7b133b
+:END:
+a mnemonic technique that improves memory by associating information with a series of familiar physical or mental locations.

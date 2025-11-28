@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       75732446-e9c5-48a3-9fc6-2f6e28a3e855
+:END:
+#+title: parenting styles
+#+filetags: :psychology:
+
+* Authoritative
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764289307127
+:ANKI_NOTE_HASH: d99f5c6c9d2eb9f91d1be1eb91e6d041
+:ID:       bb65e58e-1f20-4921-b75f-3255ba3ea842
+:END:
+Child-centered, closely interact with their children, they are both demanding and responsive.
++ Research indicates that children with the highest self-esteem, self-reliance, and social competence usually love warm, concerned authoritative parent.
+* authoritarian
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       aeb99f96-8bf5-4f55-bed0-96a955f0f94b
+:ANKI_NOTE_ID: 1764289598618
+:ANKI_NOTE_HASH: 4c5f77768b89df2f2e2cafcc248b547a
+:END:
+Restrictive parenting style that emphasizes respect for work and effort.
++ Allowing for little discussion or explanation of the firm controls placed on the child.
++ children tend to have less social skill and self-esteem.
+* permissive
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       90873b5e-e49a-4ed7-abd3-a359cc838629
+:ANKI_NOTE_ID: 1764289598625
+:ANKI_NOTE_HASH: 8bcf7e8fc7c4c2ce16a746ba836cf5c0
+:END:
+characterized by having few and inconsistent rules and a relaxed attitude to parenting that is more like a friend than a parent.
++ Permissive parents are un-restraining. they make few demands, set few litmits, and use little punishment.
+* Neglectful
+Negligent parents are uninvolved
++ they are neither demanding nor responsive
++ they are careless, inattentive, and do not seek to have a lose relationship with their children.

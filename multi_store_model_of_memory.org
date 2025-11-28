@@ -13,10 +13,11 @@ three different [[id:a81d12e3-6b2d-44c3-8d57-b34b9756984d][memory]]
 :ID:       c5d7d6f3-2f33-4944-a124-88e612343f65
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1762130631609
-:ANKI_NOTE_HASH: 2f032f97e492976a4ef130e6563a4519
+:ANKI_NOTE_HASH: 10ce8d64f5891285a5c6a7afce7fec03
 :END:
 retain information long enough for it to be recognized
 + [[id:17c37d71-bed4-46ac-bfce-34116b13bd35][iconic memory]]
++ [[id:44699a2c-2d46-41b5-9817-4d849cacf56d][echoic memory]]
 * iconic memory
 :PROPERTIES:
 :ID:       17c37d71-bed4-46ac-bfce-34116b13bd35
@@ -85,6 +86,7 @@ responsible for the temporary storage and manipulation of visual and spatial inf
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1762132391401
 :ANKI_NOTE_HASH: 8f3343460b5121cba5f954423bfd69ea
+:ROAM_ALIASES: LTM
 :END:
 long-term memory has an incredibly vast storage capacity and some memories can last from the time they are created until we die
 * utilize mnemonic devices
@@ -111,4 +113,4 @@ process of taking individual pieces of information (chunks) and grouping them in
 :ANKI_NOTE_HASH: ff604f38721c4bd165084ff0677bad05
 :END:
 information is better remembered when it is reviewed over spaced intervals of time (distributed practice), rather than being studied all at once (massed practice).
-* method of loci
+* [[id:db459ed6-5b38-4eeb-a016-9b601d0d6d39][the method of loci]]

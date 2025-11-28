@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       a230c05e-ca79-4874-bdc6-1e3fdafeb3ff
+:END:
+#+title: retrograde amnesia
+#+filetags: :psychology:
+
+* retrograde amnesia
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762747707798
+:ANKI_NOTE_HASH: 547774270d4a794349412a16d92bc98b
+:END:
+Cannot remember things that happened before the event that caused their [[id:7e968c85-e8b4-4cdb-bfbe-83794dfa4c0a][amnesia]].
++ retro = past

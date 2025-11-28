@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       fb6bb943-3dc8-40a3-b35c-a7f9ce2c779b
+:END:
+#+title: attachment theory
+#+filetags: :psychology:
+
+* attachment theory
+* attachment bond
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       ab553304-70d4-4a69-98f5-444118303dd9
+:ANKI_NOTE_ID: 1764289981339
+:ANKI_NOTE_HASH: d67368d2461b4b938a3dda07d3272708
+:END:
+children are biologically predisposed to develop attachments to caregivers as the result of genetics
++ the emotional bond between an infant and they primary caregiver, shown in young children by their seeking closeness to the caregiver.
+* stranger anxiety
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       4632829a-2ce9-4dbc-800d-7dbcff49f954
+:ANKI_NOTE_ID: 1764289981345
+:ANKI_NOTE_HASH: f7e34a653ff4a06fd370ebd6e9a50d00
+:END:
+developmental situation in which infants become anxious and fearful around strangers, beginning by about 8 months of age (After gaining the ability of [[id:fdefe3e6-17ee-452c-81f9-b77f5965231b][object permanence]])
++ evaluate people as unfamiliar and possibly threatening.
+* strange situation experiments
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764290181610
+:ANKI_NOTE_HASH: f6356a61657dafdd5feac4abe025b6de
+:END:
+study the attachment behaviors between infants and their mothers
++ by observing how infants react during separations and reunions with their mothers, this [[id:e703e90e-6ef1-463c-a7d0-bcb0c15fec55][experiment]] evaluates the infants attachment styles.
+* secure attachment
+:PROPERTIES:
+:ID:       c95746d0-8243-4e31-99f3-94a136e29f95
+:END:
+* avoidant attachment
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764291837702
+:ANKI_NOTE_HASH: 85610a6bb8954b8a86b043502986b659
+:ID:       4bbabe96-4225-4a9f-affb-75ce1ed70edb
+:END:
+Children exhibit independence and avoid seeking comfort, often resulting from caregivers who are emotionally unavailable or unresponsive
++ these children appear indifferent to separation and avoid closeness in future relationship.
+* anxious attachment
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ID:       0018bf21-b0e3-41bf-a09f-2658bf7f7a83
+:ANKI_NOTE_ID: 1764291914926
+:ANKI_NOTE_HASH: e6aecabcb81df4b8f28f056daf4986b0
+:END:
+Children are overly clingy and anxious about separation from their caregiver, stemming from inconsistent caregiving.
++ they often show distress when the caregiver leaves but may resist comfort upon their return
+* disorganized attachment
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764291986263
+:ANKI_NOTE_HASH: 8c39a7fe307bbfb10c9e5c4fba937f6a
+:ID:       daabb0da-8cbb-4376-9c8e-62e2028516b8
+:END:
+a pattern characterized by inconsistent or confused behaviors towards caregiver, often resulting from trauma or abuse
++ children display contradictory responses, like seeking closeness yet showing fear. This style may lead to challenges in forming stable relationships later in life.

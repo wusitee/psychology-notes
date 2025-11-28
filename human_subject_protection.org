@@ -2,7 +2,7 @@
 :ANKI_DECK: study
 :ID:       8f478f2d-1527-4023-bf26-e2a51fe50bd7
 :END:
-#+title: Human subject protection
+#+title: Protection From Harm
 #+filetags: :psychology:
 
 * Human subject protection

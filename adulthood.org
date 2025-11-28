@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       eba21d5a-968d-4bcd-847a-21d4081cdda4
+:END:
+#+title: adulthood
+#+filetags: :psychology:
+
+* adulthood
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1764138816215
+:ANKI_NOTE_HASH: 531f08aa1df6d16195af8985314da888
+:END:
+From the end of adolescence until the end of one's life.
++ Social Clock: the culturally preferred timing of social events such as marriage, parenthood, and retirement.
+* physical development of adulthood
+:PROPERTIES:
+:ID:       b1f9d347-6c86-403f-9e86-2439c956ffc4
+:END:
+In mid-20's, we reach a peak in the natural physical abilities which come with biological maturation, including mobility, flexibility, reaction time, visual and auditory acuity, muscular strength, cardiac output

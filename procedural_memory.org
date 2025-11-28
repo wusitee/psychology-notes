@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       d703b509-f14e-435a-838c-fd102cf5f653
+:END:
+#+title: procedural memory
+#+filetags: :psychology:
+
+* procedural memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762948443248
+:ANKI_NOTE_HASH: 218bbb621c697477a72ba75a4b4ece1d
+:END:
+a type of [[id:30e3c231-4201-47ed-8dea-d3a7c025c64b][long-term]], [[id:081e1bcd-690a-4818-bf2c-7c8e0b3c7e20][implicit]] [[id:a81d12e3-6b2d-44c3-8d57-b34b9756984d][memory]] that enables you to perform tasks without conscious thought

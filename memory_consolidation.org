@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       1c8acb12-9868-4600-870a-713bba93b4c2
+:END:
+#+title: memory consolidation
+#+filetags: :psychology:
+
+* memory consolidation
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762302783901
+:ANKI_NOTE_HASH: bfd11ea1adebc73004e1cb0c89c9a160
+:END:
+process where our brains convert [[id:1d1a1658-02ee-4ffb-8f4d-de28c6e47ae7][short-term memory]] into [[id:30e3c231-4201-47ed-8dea-d3a7c025c64b][long-term memory]].

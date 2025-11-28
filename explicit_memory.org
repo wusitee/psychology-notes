@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ANKI_DECK: study
+:ID:       268f517a-e42d-4f39-8687-5bed7ed74d93
+:END:
+#+title: explicit memory
+#+filetags: :psychology:
+
+* explicit memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762303175670
+:ANKI_NOTE_HASH: 99023350b3357a20af767443d9276e41
+:END:
+[[id:30e3c231-4201-47ed-8dea-d3a7c025c64b][long-term memory]] of facts, concepts, and events that require conscious recall of the information and can verbalize
+* semantic memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762303380344
+:ANKI_NOTE_HASH: e09d807c9220936cc10bc2e51fdd15d9
+:ID:       21772965-dd59-4ee4-bd59-e0d1c6abde6d
+:END:
+Theses are [[id:a81d12e3-6b2d-44c3-8d57-b34b9756984d][memories]] of facts, concepts, names, and other general knowledge ([[id:f82a23dc-2b09-4bbb-aa8d-1fe103491fe9][semantics]]).
++ you use it when taking a test.
+* episodic memory
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762303375738
+:ANKI_NOTE_HASH: 59bfb1c6d08c24da472c4663e26c363c
+:ID:       da48edf6-8062-431c-8646-b7c1c318e272
+:END:
+[[id:30e3c231-4201-47ed-8dea-d3a7c025c64b][long-term memory]] that involves that recollection of specific events, situations, and experiences
++ Remembers the "what", "where", and "when" of past experiences.
+* autobiographical memory
+:PROPERTIES:
+:ID:       1ba01395-ab42-4ae7-a350-a1c8e93f4621
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1762304822165
+:ANKI_NOTE_HASH: 3305abb543400f5e6983e3f9557532c8
+:END:
+Type of memory that encompasses events and experiences from an individual's own life. It combines [[id:da48edf6-8062-431c-8646-b7c1c318e272][episodic memory]] and [[id:21772965-dd59-4ee4-bd59-e0d1c6abde6d][semantic memory]].
++ We have better memory for in formation that relates to themsevles compared to information that is not personally relevant.
